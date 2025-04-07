@@ -1,0 +1,303 @@
+# Constituição Federal da República Federativa do Brasil de 1988
+
+Os princípios fundamentais.
+
+Supremacia da Constituição.
+
+## Fundamentos
+
+Os **fundamentos** da República Federativa são enumerados no art. 1º da CF/88
+
+::: {.callout-note icon=false}
+
+## CF/88, art. 1º
+
+A <a title="Forma de Governo" style="text-decoration: underline;">República</a> <a title="Forma de Estado" style="text-decoration: underline;">Federativa</a> do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado <a title="Regime Político" style="text-decoration: underline;">Democrático</a> de Direito e tem como fundamentos:
+
+<span style="display: block; margin-left: 30px;">
+    I - a soberania;<br>
+    II - a cidadania;<br>
+	III - a dignidade da pessoa humana;<br>
+	IV - os valores sociais do trabalho e da livre iniciativa;<br>
+	V - o pluralismo político.
+</span>
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+## Mnemônico
+
+![](./images/art1.png)
+
+:::
+
+### Soberania
+
+É o fundamento próprio do Estado. C
+
+Refere-se à independência do Brasil perante outros países e à sua autoridade para decidir sobre seus próprios assuntos, sem interferência externa. Isso significa que o Brasil tem poder supremo dentro do seu território e pode se organizar politicamente conforme suas próprias leis e interesses.
+
+::: {layout-ncol=2}
+
+::: {#first-column}
+
+::: {.callout-note icon=false}
+
+## CF/88, art. 21
+
+Compete à União:
+
+<span style="display: block; margin-left: 30px;">
+    IV - permitir, nos casos previstos em <a title="Lei Complementar nº 90/1997" href="https://www2.camara.leg.br/legin/fed/leicom/1997/leicomplementar-90-1-outubro-1997-363944-normaatualizada-pl.html">lei complementar</a>, que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente;
+</span>
+
+:::
+
+:::
+
+::: {#second-column}
+@fig-alcantara
+
+![Base Espacial de Alcântara, Maranhão.](./images/alcantara.jpg){#fig-alcantara}
+:::
+
+:::
+
+### Cidadania
+
+A cidadania garante que os indivíduos tenham direitos e deveres dentro do Estado. Isso inclui direitos políticos, como votar e ser votado, e direitos civis e sociais, como liberdade de expressão, acesso à educação e saúde. Também significa a participação ativa da população na vida política e social do país.
+
+### Dignidade da pessoa humana
+
+Este princípio coloca o ser humano como o centro das ações do Estado. O Brasil deve garantir que todas as pessoas sejam tratadas com respeito, igualdade e tenham condições mínimas de vida digna, incluindo acesso a saúde, educação, moradia e proteção contra qualquer forma de exploração ou discriminação.
+
+### Valores sociais do trabalho e da livre iniciativa
+
+Aqui, há um equilíbrio entre trabalho e economia:
+
+- O trabalho deve ser valorizado como forma de garantir a dignidade e o sustento das pessoas.
+
+- A livre iniciativa garante que indivíduos e empresas possam empreender e gerar riqueza, desde que respeitem as leis e os direitos trabalhistas.
+
+### Pluralismo político
+
+Significa que há liberdade para diferentes ideias, partidos e grupos políticos coexistirem e participarem da vida democrática do país. Ninguém pode ser impedido de expressar opiniões políticas, formar partidos ou defender diferentes pontos de vista dentro do regime democrático.
+
+## Objetivos
+
+Os objetivos da República Federativa são enumerados no art. 3º da CF/88
+
+::: {.callout-note icon=false}
+
+## CF/88, art. 3º
+
+Constituem objetivos fundamentais da República Federativa do Brasil:
+
+<span style="display: block; margin-left: 30px;">
+    I - construir uma sociedade livre, justa e solidária;<br>
+    II - garantir o desenvolvimento nacional;<br>
+    III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;<br>
+    IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+</span>
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+## Mnemônico
+
+![](./images/art3.png)
+
+:::
+
+## Direitos e Garantias Fundamentais
+
+- O **Capítulo I – Dos Direitos e Deveres Individuais e Coletivos** da CF/88 contém um único artigo — o **art. 5º** — no qual estão enumerados os direitos e garantias fundamentais.
+
+- Os direitos explicitamente previstos no art. 5º são referidos como **direitos expressos**.
+
+- É importante destacar a existência de **direitos implícitos**, como os que decorrem do regime e dos princípios adotados pela Constituição ou tratados internacionais (art. 5º, § 2º).
+    - Em essência, isso significa que os direitos e garantias fundamentais listados explicitamente na Constituição não são os únicos protegidos. Há também o reconhecimento de outros direitos que, embora não estejam textualmente previstos, derivam:​
+        - **Do regime adotado pela Constituição:** Refere-se ao conjunto de normas e estruturas que definem o Estado brasileiro, como a forma democrática de governo e a separação dos poderes.​
+        - **Dos princípios por ela adotados:** Inclui valores fundamentais como a dignidade da pessoa humana, a cidadania, os valores sociais do trabalho e da livre iniciativa, entre outros.​ 
+        - **Dos tratados internacionais em que o Brasil é parte:** Reconhece que os direitos estabelecidos em tratados internacionais assinados e ratificados pelo Brasil também integram o rol de direitos garantidos aos cidadãos brasileiros.
+            - Cumpre ressaltar que os **tratados e convenções internacionais** passam a integrar a legislação do país se forem aprovados por decreto presidencial (CF/88, art. 49, I e 84, IV). Situam-se no mesmo nível das leis ordinárias (CF/88, art. 102, III, b). Uma vez referendados pelo Poder Legislativo e promulgados, incorporam-se o Direito interno, com a mesma força das demais leis ([RTJ 58/70](https://www.stf.jus.br/arquivo/cms/publicacaoRTJ/anexo/058_1.pdf)).
+
+::: {.callout-tip collapse="true" style="margin-left: 120px;"}
+
+## Confere a CF/88
+
+::: {.callout-note appearance="minimal"}
+
+Art. 49. É da competência exclusiva do Congresso Nacional:
+
+::: {style="margin-left: 30px;"}
+I - resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional;
+:::
+
+:::
+
+::: {.callout-note appearance="minimal"}
+
+Art. 84. Compete privativamente ao Presidente da República:
+
+::: {style="margin-left: 30px;"}
+IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para sua fiel execução;
+:::
+
+:::
+
+::: {.callout-note appearance="minimal"}
+
+Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+
+::: {style="margin-left: 30px;"}
+III - julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida:
+:::
+
+::: {style="margin-left: 60px;"}
+b) declarar a inconstitucionalidade de tratado ou lei federal;
+:::
+
+:::
+
+:::
+
+- **Direitos** são as faculdades atribuídas aos indivíduos e as **garantias** são as disposições que asseguram os direitos. 
+
+- Nesse sentido, o **direito de autodeterminação** é garantido pela regra de que:
+
+> ninguém é obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei (art. 5ª, II)
+
+- A CF/88 enumera os direitos e garantias como referentes à vida, à liberdade, à igualdade, à segurança e à propriedade (CF/88, art. 5º, *caput*).
+
+- As disposições alcança pessoas físicas como também as jurídicas, no que couber.
+
+- A **igualdade**, ou a isonomia, é um princípio que determina o convívio de todos, sem discriminações. Esse princípio inclui o princípio de justiça social
+
+**Lista sumária, não exaustiva, de Direitos e Garantias:**
+
+- **São invioláveis:**
+    - o direito à vida, à liberdade, à igualdade, à segurança e à propriedade (*caput*);
+    - a intimidade, a vida privada, a honra e a imagem das pessoas (X);
+    - a casa do indivíduo (XI);
+    - o sigilo de correspondência (XII).
+
+- **São livres:**
+    - a manifestação do pensamento (IV);
+    - a manifestação intelectual, artística, científica e de comunicação (IX);
+    - a crença e a prátic religiosa (VI);
+    - o exercício de qualqeur trabalho, atendidas as qualificações da lei (XIII);
+    - a locomoção no território nacional em tempo de paz (XV);
+    - a reunião pacífica, sem armas (XVI);
+    - as associações para fins lícitos (XVII e XVIII);
+    - a criação de cooperativas, na forma da lei (XVIII).
+
+- **São assegurados:**
+    - o direito de resposta (V);
+    - o acesso a informações, resguardando o sigilo da fonte, quando necessário ao exercício profissional (XIV);
+    - o direito de propriedade (XXII);
+    - o direito autoral (XXVII);
+    - a propriedade industrial, que abrange as invenções, os modelos de utilidade, os desenhos industriais, as marcas, etc (XXIX);
+    - o direito ao nome da empresa (XXIX);
+    - o direito de herança (XXX);
+    - o direito de receber informações dos órgãos públicos (XXXIII);
+    - a obtenção de certidões em repartições públicas, ára defesa de direitos (XXXIV, b);
+    - o direito adquirido, o ato jurídico perfeito e a coisa julgada (XXXVI).
+
+## Princípios da Ordem Econômica
+
+A Constituição Federal de 1988 (CF/88) adota uma abordagem compatibilista entre desenvolvimento econômico e conservação ambiental, promovendo o desenvolvimento sustentável ao estabelecer os princípios gerais da atividade econômica. Dentre esses princípios, dois merecem destaque por fundamentarem explicitamente a defesa do meio ambiente: a **função social da propriedade** e o **tratamento diferenciado ou favorecido**.
+
+Primeiramente, vejamos o que estabelece o primeiro artigo do capítulo sobre os princípios gerais da atividade econômica, inserido no título referente à ordem econômica e financeira:
+
+> TÍTULO VII - Da Ordem Econômica e Financeira<br>
+> CAPÍTULO I - DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA
+
+::: {.callout-note icon=false}
+
+## CF/88, art. 270
+
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios:
+
+<span style="display: block; margin-left: 30px;">
+    I - soberania nacional;<br>
+    II - propriedade privada;<br>
+    III - <mark>função social da propriedade</mark>;<br>
+    IV - livre concorrência;<br>
+    V - defesa do consumidor;<br>
+    VI - <mark>defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação</mark>;<br>
+    VII - redução das desigualdades regionais e sociais;<br>
+    VIII - busca do pleno emprego;<br>
+    IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País.
+</span>
+:::
+
+### Função social da propriedade
+
+A CF/88 estabeleceu como um dos princípios gerais da atividade econômica que é um **dever** e um **direito** fundamental que as propriedades atendam à sua função social (art. 5º, inc. XXIII):
+
+> TÍTULO II - Dos Direitos e Garantias Fundamentais<br>
+> CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
+
+::: {.callout-note icon=false}
+
+## CF/88, art. 5º
+
+XXIII - a propriedade atenderá a sua função social;
+<span style="display: block; margin-left: 30px;">
+    XXIII - <mark>a propriedade atenderá a sua função social</mark>;
+</span>
+
+:::
+
+A **função social da propriedade** constitui uma limitação imposta pela Constituição ao direito de propriedade. Embora este seja um direito fundamental do proprietário e, portanto, de natureza privada, sua função social representa um direito coletivo da sociedade. Isso significa que a sociedade tem o direito de não sofrer prejuízos decorrentes do uso inadequado da propriedade, especialmente porque os impactos ambientais, por sua própria natureza, tendem a ultrapassar seus limites.
+
+A função social da propriedade está estabelecida no capítulo que trata da política agrícola, fundiária e da reforma agrária:
+
+> TÍTULO VII - Da Ordem Econômica e Financeira<br>
+> CAPÍTULO III - DA POLÍTICA AGRÍCOLA E FUNDIÁRIA E DA REFORMA AGRÁRIA
+
+::: {.callout-note icon=false}
+
+## CF/88, art. 186
+
+A função social é cumprida quando a propriedade rural atende, simultaneamente, segundo critérios e graus de exigência estabelecidos em lei, aos seguintes requisitos:
+
+<span style="display: block; margin-left: 30px;">
+    I - aproveitamento racional e adequado;<br>
+    II - <mark>utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente</mark>;<br>
+    III - observância das disposições que regulam as relações de trabalho;<br>
+    IV - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
+</span>
+
+:::
+
+Dessa forma, o direito de propriedade está limitado pelo direito ao MAEE. Tal previsão constitucional é amparada pelo fato de que o meio ambiente é considerado um bem difuso. Assim, ninguém pode se amparar no direito de propriedade para justificar a degradação do meio ambiente. O desenvolvimento econômico deve assegurar a utilização adequada dos recursos naturais e estar em consonância com as normas ambientais vigentes.
+
+Ainda nessa seara, consoante o Código Civil (Lei Federal nº 10.406/02):
+
+::: {.callout-note icon=false}
+
+## Código Civil, Lei Federal nº 10.406/02, art. 1.228
+
+O proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha.
+
+<span style="display: block; margin-left: 30px;">
+    § 1º <mark>O direito de propriedade deve ser exercido em consonância com as suas finalidades econômicas e sociais e de modo que sejam preservados, de conformidade com o estabelecido em lei especial, a **flora, a fauna, as belezas naturais, o equilíbrio ecológico e o patrimônio histórico e artístico, bem como evitada a poluição do ar e das águas**</mark>.<br>
+    [...]<br>
+    § 3º <mark>O proprietário pode ser privado da coisa, nos casos de desapropriação, por necessidade ou **utilidade pública** ou **interesse social**, bem como no de requisição, em caso de perigo público iminente</mark>.<br>
+    § 4º O proprietário também pode ser privado da coisa se o imóvel reivindicado consistir em extensa área, na posse ininterrupta e de boa-fé, por mais de cinco anos, de considerável número de pessoas, e estas nela houverem realizado, em conjunto ou separadamente, obras e serviços considerados pelo juiz de interesse social e econômico relevante.<br>
+    § 5º No caso do parágrafo antecedente, o juiz fixará a justa indenização devida ao proprietário; pago o preço, valerá a sentença como título para o registro do imóvel em nome dos possuidores.
+</span>
+
+:::
+
+### Tratamento diferenciado
+
+Outro princípio geral constitucional da atividade econômica e financeira é o tratamento diferenciado ou favorecido. Esse fundamento baseia-se noutro princípio, o da igualdade.
+
+Consoante aforisma aristotélico, a igualdade consiste em "tratar igualmente os iguais e desigualmente os desiguais, na medida em que se desigualam" [@Mesquita2012].
+
+A ordem jurídica ambiental prevê a adoção de normas diferenciadas para comunidades tradicionais, povos indígenas, populações locais, micro e pequenas empresas, e agricultores familiares em diversas legislações. Na Lei Florestal, por exemplo, o conceito de "tratamento dispensado" reflete esse mesmo princípio, ainda que sob uma denominação distinta.

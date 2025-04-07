@@ -1,0 +1,27 @@
+<script>
+  // Aguardar o carregamento completo do DOM antes de adicionar o ouvinte de evento
+  document.addEventListener("DOMContentLoaded", function() {
+    console.log("Página carregada e script ativo!"); // Mensagem para verificar se o script foi carregado.
+
+    // Adiciona o ouvinte de evento de tecla
+    document.addEventListener("keydown", function(event) {
+      console.log("Evento de tecla detectado:", event.key); // Logar o tipo de tecla pressionada.
+
+      // Verifica se a tecla pressionada é a seta para a direita
+      if (event.key === "ArrowRight") {
+        console.log("A seta para a direita foi pressionada.");
+        
+        // Buscar o elemento com a classe "nav-page-next"
+        const nextPageButton = document.querySelector(".nav-page-next");
+        
+        // Verificar se o elemento foi encontrado e se ele é clicável
+        if (nextPageButton) {
+          console.log("Elemento encontrado, clicando no botão de navegação...");
+          nextPageButton.click(); // Simula o clique no botão
+        } else {
+          console.log("Elemento nav-page-next não encontrado.");
+        }
+      }
+    });
+  });
+</script>

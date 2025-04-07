@@ -1,0 +1,361 @@
+# Contexto e Introdução
+
+## O que é o Estado Moderno?
+
+### Em que espaço { plano / dimensão / nível / modalidade / esfera / domínio } da realidade reside o Estado moderno?
+
+::: {.callout-note icon=false appearance="simple"}
+
+1. **Plano da realidade**  
+   - Ênfase na estrutura ou localização;  
+   - Evoca a ideia de uma camada ou área onde algo se manifesta;  
+   - Sugere uma existência paralela ou segregada do mundo físico ou simbólico;  
+   - **Exemplo:** "*No plano da realidade digital, estruturas de dados e algoritmos se manifestam como uma camada paralela, virtualmente organizada e distinta do mundo físico.*"
+
+2. **Dimensão da realidade**  
+   - Ênfase em aspectos coexistentes e complementares da realidade;  
+   - Sugere a multiplicidade de aspectos que se manifestam simultaneamente;  
+   - Amplamente utilizada em ontologia, física e filosofia;  
+   - **Exemplo:** "*Na dimensão da realidade virtual, as interações humanas ocorrem por meio de avatares e ambientes digitais.*"
+
+3. **Nível da realidade**  
+   - Ênfase na hierarquia ou na complexidade;  
+   - Implica gradação, profundidade ou dependência entre os diferentes aspectos;  
+   - Comum em psicologia, sociologia e ciências cognitivas;  
+   - **Exemplo:** "*Certos fenômenos sociais só emergem em um nível coletivo da realidade, sustentado por interações entre múltiplos indivíduos.*"
+
+4. **Modalidade da realidade**  
+   - Foco no modo de ser ou de aparecer;  
+   - Relacionada à ontologia modal – necessidade, possibilidade e factualidade;  
+   - Indica a forma como a realidade se manifesta ou é experienciada;  
+   - **Exemplo:** "*A modalidade da realidade do Estado Moderno inclui a possibilidade de formas alternativas de soberania que não chegaram a se concretizar historicamente.*"
+
+5. **Esfera da realidade**  
+   - Ênfase nos campos simbólico-sociais compartilhados;  
+   - Evoca um espaço, um ambiente, onde ideias, valores e instituições ganham validade através do consenso coletivo;  
+   - Muito utilizada em filosofia política, teoria social e direito;  
+   - **Exemplo:** "*Na esfera da realidade jurídica, normas e valores adquirem validade à medida que são reconhecidos e aceitos por uma coletividade.*"
+
+6. **Domínio da realidade**  
+   - Ênfase no âmbito funcional ou operacional;  
+   - Refere-se ao campo específico onde certos fenômenos têm eficácia ou aplicabilidade;  
+   - Comum em epistemologia, ontologia aplicada e ciências formais;  
+   - **Exemplo:** "*No domínio da realidade simbólica, signos e significados operam com efeitos concretos sobre a ação humana.*"
+
+| Termo       | Ênfase principal                                 | Palavra-chave     |
+|-------------|--------------------------------------------------|-------------------|
+| Plano       | Estrutura / Localização                          | Onde              |
+| Dimensão    | Coexistência de aspectos                         | Lado              |
+| Nível       | Hierarquia / Profundidade                        | Altura            |
+| Modalidade  | Modo de manifestação ou existência               | Como              |
+| Esfera      | Campo simbólico-social compartilhado             | Consenso          |
+| Domínio     | Âmbito funcional de validade ou aplicabilidade   | Alcance/Operação  |
+
+:::
+
+::: {.box data-aos="fade-up"}
+
+### Distinção tripartite da realidade
+
+<!-- grid 1 -->
+
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+
+**Karl Popper** propôs uma distinção tripartite da realidade em sua **teoria dos "três mundos"**, apresentada inicialmente em sua obra *Objective Knowledge: An Evolutionary Approach* (1972). Nessa estrutura ontológica:
+
+- o **Mundo 1** corresponde ao mundo físico, dos objetos materiais e eventos naturais; 
+- o **Mundo 2** refere-se ao mundo subjetivo da consciência, como pensamentos, emoções e experiências individuais; 
+- e o **Mundo 3** diz respeito ao universo dos conteúdos objetivos do pensamento, como teorias científicas, argumentos, obras de arte e instituições sociais. 
+
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+![](./images/popper.jpeg)
+Karl Popper (1902--1994)
+:::
+
+:::
+
+Para Popper, embora o Mundo 3 tenha origem na mente humana, ele possui uma existência autônoma e pode exercer influência causal sobre os outros mundos, sobretudo o Mundo 2. Essa divisão teve grande impacto na filosofia da ciência e da mente, ao oferecer uma maneira de pensar sobre a realidade que inclui tanto aspectos físicos quanto sociais e simbólicos.  
+
+:::
+---
+
+::: {.box data-aos="fade-up"}
+
+**Yuval Noah Harari** (1976–), em **Sapiens: Uma Breve História da Humanidade**, e mais recentemente, mas não apenas, em **Nexus: Uma breve história das redes de informação, da Idade da Pedra à inteligência artificial**, destaca uma distinção marcante entre três tipos de realidade: **objetiva** (fatos físicos), **subjetiva** (experiências individuais) e **intersubjetiva** (construções coletivas como mitos, leis e instituições). 
+
+::: {.callout-tip collapse="true"}
+
+## Origens do conceito de **realidade interjubjetiva**
+
+A ideia de realidade intersubjetiva não é um pioneirismo de Harari — embora ele a popularize de forma muito acessível e impactante em Sapiens. O conceito tem raízes profundas na filosofia, sociologia e fenomenologia, bem anteriores a Harari.
+
+**Edmund Husserl** (1859–1938), fundador da fenomenologia, já tratava da intersubjetividade como condição para a constituição do mundo social.
+
+**Alfred Schutz**, influenciado por Husserl, desenvolveu o conceito de realidade intersubjetiva como "mundo da vida" compartilhado, base das interações sociais.
+
+**Peter Berger** e **Thomas Luckmann**, em **A Construção Social da Realidade** (1966), consolidam a noção de realidade intersubjetiva como o universo onde significados são socialmente produzidos, transmitidos e mantidos.
+
+:::
+
+A originalidade da abordagem de Harari está em mostrar como a realidade intersubjetiva se tornou o principal campo de atuação das sociedades humanas, sustentando estruturas complexas exclusivamente por meio de **crenças compartilhadas** que se consolidam e operam em amplas **redes de informações**.
+
+<!-- grid 1 -->
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+- **Realidade objetiva**
+    - Existe independentemente da consciência humana;
+    - Mesmo que ninguém acredite nelas, ainda existem;
+    - **Exemplo 1**: montanhas, átomos, gravidade;
+    - **Exemplo 2**: Uma pizza tem em média 1500 a 2500 calorias.
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+![](./images/pizza.jpg)
+:::
+
+:::
+
+<!-- grid 2 -->
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+- **Realidade subjetiva**
+    - Existe apenas na mente individual;
+    - Só a pessoa que sente ou acredita acessa diretamente;
+    - **Exemplo 1**: dor, prazer, emoções, crenças pessoais;
+    - **Exemplo 2**: Quem prepara a pizza mais gostosa?
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+![](./images/campeonato-pizza.jpg)
+:::
+
+:::
+
+<!-- grid 3 -->
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+- **Realidade intersubjetiva**
+    - Existe entre mentes, sustentada coletivamente por um grupo de pessoas, ou em outras palavras, em redes de informações;
+    - **Exemplo 1**: Dinheiro, Leis, Religião
+    - **Exemplo 2**: Em 2010, Laszlo comprou duas pizzas por 10 mil Bitcoins (BTC). Esta foi a primeira transação comercial conhecida envolvendo BTC. Quanto vale um BTC?
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+Quanto vale uma pizza?
+![](./images/Laszlo-Hanycez.png)
+:::
+
+:::
+
+- Todos entendemos a existência dos EUA, da China, Rússia e Brasil como uma realidade objetiva, mas há casos, em que as pessoas divergem sobre a existência de certos Estados.
+
+- Dinheiro, Leis, Religião, Estado e Nação pertencem à realidade intersubjetiva; têm enorme poder dentro de uma rede informacional específica e não tem nenhum sentido fora dela.
+
+Em Nexus, Harari destaca o **livro** e o **prelo** (imprensa tipográfica) como os primeiros instrumentos das tecnologias da informação, atuando como veículos fundamentais para a construção e disseminação de redes intersubjetivas de conhecimento e crença.
+
+```{=html}
+<table style="width: 100%; border-collapse: collapse; height: 300px;">
+  <tr>
+    <td style="width: 70%; vertical-align: middle;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <img src="./images/livro.png" alt="Tabuleta, pergaminho, códice" style="max-width: 100%;">
+        <p style="font-style: italic; margin-top: 8px; text-align: center; margin-bottom: 0;">Tabuleta, pergaminho, códice</p>
+      </div>
+    </td>
+    <td style="width: 30%; vertical-align: middle;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <img src="./images/prelo.png" alt="Prensa tipográfica" style="max-width: 100%;">
+        <p style="font-style: italic; margin-top: 8px; text-align: center; margin-bottom: 0;">Prensa tipográfica</p>
+      </div>
+    </td>
+  </tr>
+</table>
+```
+
+:::
+
+::: {.box data-aos="fade-up"}
+
+### O poder das estórias
+
+Kendall Haven (1976-) ![](https://flagcdn.com/w40/us.png){width=2ex}
+
+Story Proof: The Science Behind the Startling Power of Story, 2007
+
+"A mente humana se baseia em estórias e na arquitetura da estória como mapa primário para o entendimento, encontrando sentido, lembrando e planejando nossa vida. A vida é como as estórias por pensamos em termos de estórias."
+
+:::
+
+::: {.box data-aos="fade-up"}
+
+## Gênese do Pensamento em Justiça e Direito Ambiental
+
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+
+O antropocentrismo estabelece uma separação artificial entre o ser humano e a natureza, posicionando a humanidade em oposição às demais espécies do planeta e assumindo o ser humano como medida autorreferente de todas as coisas [@Teixeira2013].
+
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+Steve Cutts, 2012. *Man*
+
+{{< video https://www.youtube.com/watch?v=mBq5GQkBLbU >}}
+:::
+
+:::
+
+---
+
+::: {.box data-aos="fade-up"}
+
+<!-- Rachel Carlson -->
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+**Rachel Carlson** (1933-2012) ![](https://flagcdn.com/w40/us.png){width=2ex}
+
+![](./images/carlson.jpg){width=2in}
+
+1. **Título simbólico:**
+   - A "primavera silenciosa" é uma metáfora para um futuro em que os pássaros não cantam mais, porque foram envenenados pelos pesticidas — um alerta poético e trágico sobre o rumo que a humanidade está tomando.
+
+2. **Uso de pesticidas:**
+   - Carson mostra como substâncias químicas (como o DDT) são pulverizadas sem critério, afetando plantas, animais, solos, águas e seres humanos, acumulando-se na cadeia alimentar.
+
+3. **Impactos na fauna:**
+   - Pássaros, peixes e insetos polinizadores morrem ou sofrem mutações. Ela destaca especialmente os efeitos sobre as aves, cujas populações estão em declínio por conta da toxicidade dos pesticidas.
+
+4. **Ciência vs. Indústria Química:**
+   - Carson denuncia a omissão e manipulação das informações pelas grandes corporações químicas, que minimizam os riscos dos produtos e desconsideram a saúde pública e ambiental.
+
+5. **Chamado à ação:**
+   - Ela propõe uma ciência mais ética e responsável, o controle racional dos pragas com alternativas menos danosas e a necessidade de envolver o público nas decisões sobre o meio ambiente.
+
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+Silent Spring, 1962
+
+![](./images/silent-spring.jpg)
+
+Alerta sobre os impactos negativos do uso de pesticidas, e o surgimento de movimentos ambientais
+
+:::
+
+:::
+
+:::
+
+---
+
+::: {.box data-aos="fade-up"}
+
+<!-- John Rawls -->
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+**John Rawls** (1921-2002) ![](https://flagcdn.com/w40/us.png){width=2ex}
+
+Rawls é uma das figuras mais importantes ao discutir a justiça social dentro do direito. Em sua obra "Uma Teoria da Justiça", ele desenvolve o conceito de justiça distributiva, onde as desigualdades sociais e econômicas só podem ser justificadas se beneficiam os mais desvantajosos (o princípio da diferença).		
+		
+véu da ignorância
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+Uma Teoria da Justiça, 1971
+
+![](./images/theory-of-justice.jpeg)
+
+:::
+
+:::
+
+:::
+
+---
+
+::: {.box data-aos="fade-up"}
+
+<!-- Ronald Dworkin -->
+::: {layout-ncol=2}
+
+::: {#first-column}
+**Ronald Dworkin** (1931-2013) ![](https://flagcdn.com/w40/us.png){width=2ex}
+
+A teoria do direito de Dworkin sustenta que argumentos jurídicos adequados repousam na melhor interpretação moral possível das práticas em vigor em uma determinada comunidade. A essa teoria de argumentação jurídica agrega-se uma teoria de justiça, segundo a qual todos os juízos a respeito de direitos e políticas públicas devem basear-se na idéia de que todos os membros de uma comunidade são iguais enquanto seres humanos, independentemente das suas condições sociais e econômicas, ou de suas crenças e estilos de vida, e devem ser tratados, em todos os aspectos relevantes para seu desenvolvimento humano, com igual consideração e respeito.
+
+Elabora a ideia do juiz hércules
+:::
+
+::: {#second-column}
+Levando os Direitos a Sério, 1977
+
+![](./images/direitos-a-serio.jpg)
+
+:::
+
+:::
+
+:::
+
+---
+
+::: {.box data-aos="fade-up"}
+
+<!-- Hans Jonas -->
+::: {layout-ncol=2}
+
+::: {#first-column}
+**Hans Jonas** (1903-1993) ![](https://flagcdn.com/w40/de.png){width=2ex}
+
+A relação entre o conceito de responsabilidade e desenvolvimento sustentável.
+:::
+
+::: {#second-column}
+*The Imperative of Responsibility: In Search of an Ethics for the Technological Age*, publicada em alemão em 1979; inglês em 1984.
+
+![](./images/imperative-responsability.jpg)
+
+:::
+
+:::
+
+:::
+
+---
+
+::: {.box data-aos="fade-up"}
+
+<!-- Elinor Ostrom -->
+::: {layout-ncol=2}
+
+::: {#first-column}
+**Elinor Ostrom** (1933-2012) ![](https://flagcdn.com/w40/us.png){width=2ex}
+
+A **Tragédia dos Comuns**
+
+Para discutir os bens comuns e como a gestão comunitária pode ser fundamental na preservação de espécies e ambientes ameaçados.
+
+:::
+
+::: {#second-column}
+*Governing the Commons: The Evolution of Institutions for Collective Action*, 1990; Nobel em 2009.
+
+![](./images/governing-the-commons.jpeg)
+
+:::
+
+:::
+
+:::
+
+:::

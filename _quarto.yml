@@ -1,0 +1,40 @@
+project:
+  type: book
+
+book:
+  title: "Introdução ao Direito Ambiental"
+  author: "Lucas S.B. Jordão"
+  date: "23/03/2025"
+  chapters:
+    - index.qmd
+    - introducao.qmd
+    - ordenamento-juridico.qmd
+    - constituicao.qmd
+    - direito-ambiental.qmd
+    - pnma.qmd
+    - panorama-internacional.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: lux
+      dark: slate
+    number-depth: 3
+    number-sections: false
+    css: "style.css"
+    include-in-header:
+      - text: |
+          <script src="nav-arrows.js"></script>
+          <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    include-after-body: 
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+          <script>
+            AOS.init();
+          </script>
+lang: pt
+
+
