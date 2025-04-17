@@ -2,54 +2,37 @@
 
 ## O que é o Estado Moderno?
 
-### Em que espaço { plano / dimensão / nível / modalidade / esfera / domínio } da realidade reside o Estado moderno?
+### Em que plano, dimensão, domínio ou esfera da realidade o Estado moderno existe?
 
 ::: {.callout-note icon=false appearance="simple"}
 
-1. **Plano da realidade**  
-   - Ênfase na estrutura ou localização;  
-   - Evoca a ideia de uma camada ou área onde algo se manifesta;  
-   - Sugere uma existência paralela ou segregada do mundo físico ou simbólico;  
-   - **Exemplo:** "*No plano da realidade digital, estruturas de dados e algoritmos se manifestam como uma camada paralela, virtualmente organizada e distinta do mundo físico.*"
+A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de diferentes perspectivas, dependendo da disciplina ou área de estudo. Em termos gerais, a realidade pode ser entendida como o conjunto de tudo o que existe e acontece, seja percebido ou não, seja físico ou abstrato. A seguir, algumas abordagens sobre o que é a realidade:
 
-2. **Dimensão da realidade**  
-   - Ênfase em aspectos coexistentes e complementares da realidade;  
-   - Sugere a multiplicidade de aspectos que se manifestam simultaneamente;  
-   - Amplamente utilizada em ontologia, física e filosofia;  
-   - **Exemplo:** "*Na dimensão da realidade virtual, as interações humanas ocorrem por meio de avatares e ambientes digitais.*"
+1. Filosófica
 
-3. **Nível da realidade**  
-   - Ênfase na hierarquia ou na complexidade;  
-   - Implica gradação, profundidade ou dependência entre os diferentes aspectos;  
-   - Comum em psicologia, sociologia e ciências cognitivas;  
-   - **Exemplo:** "*Certos fenômenos sociais só emergem em um nível coletivo da realidade, sustentado por interações entre múltiplos indivíduos.*"
+- Realismo: A realidade existe independentemente da nossa percepção dela. O mundo e os objetos que nele existem possuem uma existência objetiva, e nossa percepção é uma representação ou reflexo dessa realidade objetiva.
 
-4. **Modalidade da realidade**  
-   - Foco no modo de ser ou de aparecer;  
-   - Relacionada à ontologia modal – necessidade, possibilidade e factualidade;  
-   - Indica a forma como a realidade se manifesta ou é experienciada;  
-   - **Exemplo:** "*A modalidade da realidade do Estado Moderno inclui a possibilidade de formas alternativas de soberania que não chegaram a se concretizar historicamente.*"
+- Idealismo: A realidade, ou pelo menos a nossa percepção dela, depende da mente. A experiência de um objeto ou fenômeno só existe porque existe alguém para percebê-lo.
 
-5. **Esfera da realidade**  
-   - Ênfase nos campos simbólico-sociais compartilhados;  
-   - Evoca um espaço, um ambiente, onde ideias, valores e instituições ganham validade através do consenso coletivo;  
-   - Muito utilizada em filosofia política, teoria social e direito;  
-   - **Exemplo:** "*Na esfera da realidade jurídica, normas e valores adquirem validade à medida que são reconhecidos e aceitos por uma coletividade.*"
+- Fenomenologia: A realidade é aquilo que se apresenta à nossa consciência. Ou seja, a realidade não é algo totalmente separado de nós, mas é experienciado e interpretado a partir da nossa percepção e interpretação do mundo.
 
-6. **Domínio da realidade**  
-   - Ênfase no âmbito funcional ou operacional;  
-   - Refere-se ao campo específico onde certos fenômenos têm eficácia ou aplicabilidade;  
-   - Comum em epistemologia, ontologia aplicada e ciências formais;  
-   - **Exemplo:** "*No domínio da realidade simbólica, signos e significados operam com efeitos concretos sobre a ação humana.*"
+2. Científica
 
-| Termo       | Ênfase principal                                 | Palavra-chave     |
-|-------------|--------------------------------------------------|-------------------|
-| Plano       | Estrutura / Localização                          | Onde              |
-| Dimensão    | Coexistência de aspectos                         | Lado              |
-| Nível       | Hierarquia / Profundidade                        | Altura            |
-| Modalidade  | Modo de manifestação ou existência               | Como              |
-| Esfera      | Campo simbólico-social compartilhado             | Consenso          |
-| Domínio     | Âmbito funcional de validade ou aplicabilidade   | Alcance/Operação  |
+Na ciência, a realidade é frequentemente abordada como aquilo que pode ser medido, observado ou testado de maneira objetiva, usando métodos empíricos e experimentais. Pode se referir tanto ao mundo físico, como a constituição do universo, quanto aos fenômenos mais abstratos, como fenômenos sociais ou psicológicos, que são observados em diferentes níveis de análise.
+
+A física, por exemplo, lida com a realidade em termos de leis naturais e partículas subatômicas, enquanto a biologia e a sociologia abordam a realidade em relação aos organismos e interações sociais.
+
+3. Cultural e Social
+
+A realidade pode ser também construída de maneira coletiva, em um processo social e cultural. O que uma sociedade define como "real" pode ser, em grande parte, um consenso coletivo, um conjunto de normas e valores estabelecidos ao longo do tempo, que moldam as percepções das pessoas sobre o mundo.
+
+Isso está ligado à ideia de realidades sociais e como diferentes culturas ou grupos sociais podem ter visões e interpretações distintas sobre o que constitui "realidade". Exemplo disso é a noção de "realidade virtual", que é criada por meios digitais e tecnologias, embora não seja fisicamente tangível, ainda é considerada uma parte da experiência humana contemporânea.
+
+4. Psicológica
+
+A realidade também pode ser percebida de maneira individual, ou seja, a maneira como uma pessoa experimenta e interpreta o mundo ao seu redor. A percepção individual da realidade é moldada por fatores psicológicos, como crenças, emoções, memória, e até mesmo condições mentais.
+
+O que uma pessoa percebe como real pode ser diferente do que outra pessoa percebe, e isso pode influenciar comportamentos, decisões e interações sociais.
 
 :::
 
@@ -65,9 +48,9 @@
 
 **Karl Popper** propôs uma distinção tripartite da realidade em sua **teoria dos "três mundos"**, apresentada inicialmente em sua obra *Objective Knowledge: An Evolutionary Approach* (1972). Nessa estrutura ontológica:
 
-- o **Mundo 1** corresponde ao mundo físico, dos objetos materiais e eventos naturais; 
-- o **Mundo 2** refere-se ao mundo subjetivo da consciência, como pensamentos, emoções e experiências individuais; 
-- e o **Mundo 3** diz respeito ao universo dos conteúdos objetivos do pensamento, como teorias científicas, argumentos, obras de arte e instituições sociais. 
+- o **Mundo 1** corresponde ao <mark>mundo físico</mark>, dos objetos materiais e eventos naturais; 
+- o **Mundo 2** refere-se ao <mark>mundo subjetivo</mark> da consciência, como pensamentos, emoções e experiências individuais; 
+- e o **Mundo 3** diz respeito ao <mark>universo das ideias e das criaçãos</mark>, dos conteúdos objetivos do pensamento, como teorias científicas, argumentos, obras de arte e instituições sociais. 
 
 :::
 
@@ -85,7 +68,7 @@ Para Popper, embora o Mundo 3 tenha origem na mente humana, ele possui uma exist
 
 ::: {.box data-aos="fade-up"}
 
-**Yuval Noah Harari** (1976–), em **Sapiens: Uma Breve História da Humanidade**, e mais recentemente, mas não apenas, em **Nexus: Uma breve história das redes de informação, da Idade da Pedra à inteligência artificial**, destaca uma distinção marcante entre três tipos de realidade: **objetiva** (fatos físicos), **subjetiva** (experiências individuais) e **intersubjetiva** (construções coletivas como mitos, leis e instituições). 
+**Yuval Noah Harari** (1976–), em **Sapiens: Uma Breve História da Humanidade**, e mais recentemente, mas não apenas, em **Nexus: Uma breve história das redes de informação, da Idade da Pedra à inteligência artificial**, destaca uma distinção marcante entre três tipos de realidade: **objetiva** (fatos físicos), **subjetiva** (experiências individuais) e **intersubjetiva** (construções coletivas, como mitos, leis e instituições). 
 
 ::: {.callout-tip collapse="true"}
 
@@ -98,7 +81,12 @@ A ideia de realidade intersubjetiva não é um pioneirismo de Harari — embora 
 **Alfred Schutz**, influenciado por Husserl, desenvolveu o conceito de realidade intersubjetiva como "mundo da vida" compartilhado, base das interações sociais.
 
 **Peter Berger** e **Thomas Luckmann**, em **A Construção Social da Realidade** (1966), consolidam a noção de realidade intersubjetiva como o universo onde significados são socialmente produzidos, transmitidos e mantidos.
-
+- A **realidade social** é algo que não é dada, mas construída por meio da interação humana.
+   - Essa construção acontece em três etapas principais:
+      - Externalização: os seres humanos criam instituições e práticas sociais;
+      - Objetivação: essas criações ganham autonomia e passam a parecer "naturais", como se sempre tivessem existido;
+      - Internalização: os indivíduos, ao nascerem em uma sociedade, absorvem essas estruturas como parte da realidade.
+   - Os humanos se destacam pela sua capacidade de construir a realidade social.
 :::
 
 A originalidade da abordagem de Harari está em mostrar como a realidade intersubjetiva se tornou o principal campo de atuação das sociedades humanas, sustentando estruturas complexas exclusivamente por meio de **crenças compartilhadas** que se consolidam e operam em amplas **redes de informações**.
@@ -187,10 +175,14 @@ Em Nexus, Harari destaca o **livro** e o **prelo** (imprensa tipográfica) como 
 
 Kendall Haven (1976-) ![](https://flagcdn.com/w40/us.png){width=2ex}
 
-Story Proof: The Science Behind the Startling Power of Story, 2007
+*Story Proof: The Science Behind the Startling Power of Story*, 2007
 
 "A mente humana se baseia em estórias e na arquitetura da estória como mapa primário para o entendimento, encontrando sentido, lembrando e planejando nossa vida. A vida é como as estórias por pensamos em termos de estórias."
 
+:::{.callout-tip collapse="true"}
+*Storytelling* de dados.
+
+criadores de mitos e burocratas
 :::
 
 ::: {.box data-aos="fade-up"}
@@ -221,9 +213,24 @@ Steve Cutts, 2012. *Man*
 ::: {layout-ncol=2}
 
 ::: {#first-column style="display: flex; justify-content: center;"}
-**Rachel Carlson** (1933-2012) ![](https://flagcdn.com/w40/us.png){width=2ex}
+**Rachel Carson** (1933-2012) ![](https://flagcdn.com/w40/us.png){width=2ex}
 
 ![](./images/carlson.jpg){width=2in}
+
+Rachel Carson foi uma cientista, bióloga marinha, escritora e ecologista norte-americana. Por meio da publicação de Silent Spring (1962), além de diversos artigos e obras voltadas ao meio ambiente, desempenhou um papel fundamental no surgimento da consciência ambiental moderna.
+
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+Silent Spring, 1962
+
+![](./images/silent-spring.jpg)
+
+Alerta sobre os impactos negativos do uso de pesticidas, e o surgimento de movimentos ambientais
+
+:::
+
+:::
 
 1. **Título simbólico:**
    - A "primavera silenciosa" é uma metáfora para um futuro em que os pássaros não cantam mais, porque foram envenenados pelos pesticidas — um alerta poético e trágico sobre o rumo que a humanidade está tomando.
@@ -239,19 +246,6 @@ Steve Cutts, 2012. *Man*
 
 5. **Chamado à ação:**
    - Ela propõe uma ciência mais ética e responsável, o controle racional dos pragas com alternativas menos danosas e a necessidade de envolver o público nas decisões sobre o meio ambiente.
-
-:::
-
-::: {#second-column style="display: flex; justify-content: center;"}
-Silent Spring, 1962
-
-![](./images/silent-spring.jpg)
-
-Alerta sobre os impactos negativos do uso de pesticidas, e o surgimento de movimentos ambientais
-
-:::
-
-:::
 
 :::
 

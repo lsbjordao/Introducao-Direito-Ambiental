@@ -2,7 +2,18 @@
 
 ## Conceituação
 
-Dimensão hierárquica das normas (regras e princípios) de um Estado de Direito, dotado de unidade, coerência e completude (Bobbio 1995).
+O ordenamento jurídico pode ser definido como o conjunto estruturado e hierarquizado de normas (regras e princípios) que regulam a vida em sociedade dentro de um Estado de Direito. Ele é caracterizado pela unidade, coerência e completude, conforme destacado por Norberto Bobbio (1995), e visa garantir segurança jurídica, previsibilidade e justiça na aplicação do direito.
+
+A dimensão hierárquica das normas indica que há uma gradação entre elas, com a Constituição ocupando o topo da pirâmide normativa. Abaixo dela, encontram-se as leis complementares, ordinárias, decretos e demais atos normativos. Essa estrutura permite que o sistema jurídico mantenha coerência interna e possibilita o controle de validade das normas inferiores em relação às superiores.
+
+Além disso, o ordenamento jurídico deve ser visto como um sistema em constante evolução, que busca responder aos desafios sociais e políticos por meio da interpretação e aplicação dinâmica de suas normas.
 
 ![](images/piramide.png)
 
+## Regime jurídico
+
+Uma definição de regime jurídico tem sido recentemente difundida no âmbito do texto da proposta de Emenda à Constituição (PEC) nº 32/2020, que dispõe sobre uma Nova Administração Pública, encaminhada pelo Ministério da Economia. Segundo a mesma, “regime jurídico é o conjunto de direitos, deveres, garantias, vantagens, proibições e penalidades aplicáveis a determinadas relações sociais qualificadas pelo Direito” (ME 2021).
+
+Nesse sentido, regime jurídico é um sistema normativo imposto pelo Direito, direcionado a regular uma determinada matéria de Direito, tais como o regime jurídico único dos servidores públicos federais, o regime jurídico trabalhista, revidenciário, do consumidor, etc.
+
+Podemos falar em regime jurídico de proteção ou de utilização da flora, das florestas, da Mata Atlântica, das vegetações naturais e plantadas, das espécies ameaçadas de extinção, da gestão das florestas públicas, todas estas, matérias aqui estudadas.

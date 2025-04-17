@@ -1,5 +1,19 @@
 # Constituição Federal da República Federativa do Brasil de 1988
 
+O Brasil é uma República Federativa que compreende a Uniãos, os Estados, o Distrito Federal e os Municípios, todos autônomos.
+
+A autonomia federativa assenta-se em dois elementos básicos:
+- existência de órgãos governamentais próprios; e
+- posse de competências exclusivas.
+
+A repartição de competências entre a União, os Estados-membros, Municípios e o Distrito Federal dá origem a um estrutura estatal complexa em que diversas esferas governamentais se manifestam sobre uma mesma população e um mesmo território.
+
+Segundo a teoria do federalismo, a repartição de poderes autônomos constitui o núcleo do conceito do Estado Federal. Poderes, estes, distribuídos entre as entidades autônomas, que passam a compor seu campo de atuação e de jurisdição, sua área de competência.
+
+
+
+
+
 Os princípios fundamentais.
 
 Supremacia da Constituição.
@@ -12,7 +26,7 @@ Os **fundamentos** da República Federativa são enumerados no art. 1º da CF/88
 
 ## CF/88, art. 1º
 
-A <a title="Forma de Governo" style="text-decoration: underline;">República</a> <a title="Forma de Estado" style="text-decoration: underline;">Federativa</a> do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado <a title="Regime Político" style="text-decoration: underline;">Democrático</a> de Direito e tem como fundamentos:
+A <a title="Forma de Governo" style="text-decoration: underline;">República</a> <a title="Forma de Estado" style="text-decoration: underline;">Federativa</a> do Brasil, formada pela <a title="A forma federativa de Estado é uma das quatro cláusulas pétreas da Constituição. As outras três são: (1) o voto direto, secreto, universal e periódico; (2) a separação dos Poderes; e (3) os direitos e garantias individuais (CF/88, art. 60 § 4º)." style="text-decoration: underline;">união indissolúvel</a> dos Estados e Municípios e do Distrito Federal, constitui-se em Estado <a title="Regime Político" style="text-decoration: underline;">Democrático</a> de Direito e tem como fundamentos:
 
 <span style="display: block; margin-left: 30px;">
     I - a soberania;<br>
