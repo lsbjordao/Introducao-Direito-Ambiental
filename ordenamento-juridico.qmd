@@ -2,18 +2,106 @@
 
 ## Conceituação
 
-O ordenamento jurídico pode ser definido como o conjunto estruturado e hierarquizado de normas (regras e princípios) que regulam a vida em sociedade dentro de um Estado de Direito. Ele é caracterizado pela unidade, coerência e completude, conforme destacado por Norberto Bobbio (1995), e visa garantir segurança jurídica, previsibilidade e justiça na aplicação do direito.
+O ordenamento jurídico pode ser definido como o conjunto estruturado e hierarquizado de normas (regras e princípios) que regulam a vida em sociedade dentro de um Estado de Direito. Ele é caracterizado pela unidade, coerência e completude, conforme destacado por @Bobbio_1995, e visa garantir segurança jurídica, previsibilidade e justiça na aplicação do direito.
 
 A dimensão hierárquica das normas indica que há uma gradação entre elas, com a Constituição ocupando o topo da pirâmide normativa. Abaixo dela, encontram-se as leis complementares, ordinárias, decretos e demais atos normativos. Essa estrutura permite que o sistema jurídico mantenha coerência interna e possibilita o controle de validade das normas inferiores em relação às superiores.
 
 Além disso, o ordenamento jurídico deve ser visto como um sistema em constante evolução, que busca responder aos desafios sociais e políticos por meio da interpretação e aplicação dinâmica de suas normas.
 
-![](images/piramide.png)
+![A Pirâmide de Kelsen representa a hierarquia das normas jurídicas, onde a norma fundamental está no topo, servindo de base para a validade das normas inferiores. No topo da pirâmide, encontra-se a Constituição, seguida pelas leis ordinárias, decretos e outros atos normativos. Essa estrutura ilustra a relação de subordinação entre as normas, com as normas inferiores sendo válidas apenas se estiverem de acordo com as superiores. Hans Kelsen (1881-1973) foi um jurista austríaco conhecido pela Teoria Pura do Direito, que buscava uma análise objetiva e científica do direito, separando-o de influências morais e políticas. Ele propôs que o direito fosse entendido como um sistema de normas, onde cada uma deriva de uma norma superior, a norma fundamental. Essa abordagem é ilustrada pela Pirâmide de Kelsen, onde as normas inferiores são subordinadas às superiores. Sua teoria foi criticada por ignorar o contexto ético e social do direito, sendo vista como excessivamente formalista.](images/piramide.png)
 
 ## Regime jurídico
 
-Uma definição de regime jurídico tem sido recentemente difundida no âmbito do texto da proposta de Emenda à Constituição (PEC) nº 32/2020, que dispõe sobre uma Nova Administração Pública, encaminhada pelo Ministério da Economia. Segundo a mesma, “regime jurídico é o conjunto de direitos, deveres, garantias, vantagens, proibições e penalidades aplicáveis a determinadas relações sociais qualificadas pelo Direito” (ME 2021).
+Uma definição de **regime jurídico** tem sido recentemente difundida: 
 
-Nesse sentido, regime jurídico é um sistema normativo imposto pelo Direito, direcionado a regular uma determinada matéria de Direito, tais como o regime jurídico único dos servidores públicos federais, o regime jurídico trabalhista, revidenciário, do consumidor, etc.
+> “regime jurídico é o conjunto de direitos, deveres, garantias, vantagens, proibições e penalidades aplicáveis a determinadas relações sociais qualificadas pelo Direito”.
 
-Podemos falar em regime jurídico de proteção ou de utilização da flora, das florestas, da Mata Atlântica, das vegetações naturais e plantadas, das espécies ameaçadas de extinção, da gestão das florestas públicas, todas estas, matérias aqui estudadas.
+É o conjunto de regras e princípios aplicáveis a uma determinada situação jurídica específica. Ou seja, o regime jurídico delimita o tratamento jurídico dado a determinado sujeito, relação, ou instituto.
+
+- Existem vários tipos, por exemplo:
+    - Regime jurídico-administrativo (aplicável à Administração Pública)
+    - Regime jurídico dos servidores públicos
+    - Regime jurídico de bens públicos
+    - Regime de bens no casamento (comunhão universal, separação total etc.)
+    - Regime de proteção das vegetações nativas
+    - Regime de proteção das espécies ameaçadas
+
+**Ordenamento Jurídico vs. Regime Jurídico:**
+
+| Termo             | Definição                                                                 |
+|-------------------|---------------------------------------------------------------------------|
+| Ordenamento Jurídico | Conjunto de normas que compõem o sistema jurídico de um país.            |
+| Regime Jurídico     | Conjunto de normas e princípios aplicáveis a uma situação ou relação específica. |
+
+## Princípios e normas
+
+De modo geral, o ordenamento jurídico é regido por um sistema de **princípios** e **normas**.
+
+- **Princípios:**  
+  Por princípio, entende-se:
+
+  > "*o mandamento nuclear de um sistema, verdadeiro alicerce dele, disposição fundamental que se irradia sobre diferentes normas, compondo-lhes o espírito e servindo de critério para exata compreensão e inteligência delas, exatamente porque define a lógica e a racionalidade do sistema normativo, conferindo-lhe a tônica que lhe dá sentido harmônico. Eis porque violar um princípio é muito mais grave que transgredir uma norma. A desatenção ao princípio implica ofensa não apenas a um específico mandamento obrigatório, mas a todo o sistema de comandos*" — [@Melo_2015].
+
+- **Normas:**  
+  **Normas jurídicas** integram o ordenamento jurídico e têm finalidade regulatória do mesmo. O conceito de "norma" em seu sentido amplo (*sensu lato*) refere-se àquilo que é interpretado pelos juristas e operadores do Direito a partir do que é estabelecido na Constituição, diplomas legais e atos normativos. A interpretação desses instrumentos normativos constitui o ramo da **Hermenêutica Jurídica**, que cuida do estudo e desenvolvimento de métodos e princípios da **atividade de interpretação das normas**.
+
+  Que não se confunda "norma" com "instrumento normativo", que é um documento que estabelece elementos como os conceitos, princípios, objetivos, diretrizes, procedimentos, instrumentos, indicadores, modos de agir, transgressões, sanções, de forma a orientar a atuação da organização (tal como a do Estado de Direito) e a tomada de decisões. 
+  
+  A norma é o conteúdo normativo, ou seja, o mandamento, o comando. É uma regra de conduta extraída da interpretação de um texto jurídico.
+  
+  Ademais, que também não se confunda "instrumentos normativos" com "atos normativos".
+
+## Instrumentos e atos normativos
+
+**Instrumentos normativos** é um termo não circunscrito no ordenamento jurídico. Ele pode ser entendido, de forma genérica, como os documentos que constituem o ordenamento jurídico. São os meios através dos quais um sistema jurídico adquire sua formalidade e materialidade.
+
+Exemplos de instrumentos normativos são: a própria Constituição, as emendas constitucionais, leis complementares, ordinárias, delegadas, medidas provisórias, decretos, resoluções, deliberações, portarias e instruções normativas (CF/88, art. 59).
+
+**Atos normativos** são espécies de atos administrativos, que por sua vez são:
+
+> "*manifestações unilaterais da Administração Pública que tenham como fim adquirir, resguardar, transferir, modificar, extinguir e declarar direitos ou impor obrigações aos administrados ou a si própria*" [@Meirelles_2020].
+
+Atos normativos contêm comandos gerais da Administração Pública visando à **regulamentação** e à correta aplicação da lei. Exemplos de atos normativos são: decretos regulamentares, regimentos, resoluções, deliberações, portarias, instruções normativas, medidas provisórias.
+
+Contrariamente, a Constituição e leis não são espécies de atos normativos, mas, conforme visto, são instrumentos normativos.
+
+## Regulação e regulamentação
+
+Em sentido amplo, **regulação** refere-se à competência do **Poder Legislativo** para editar leis que criam direitos e deveres. Veja o que diz o inciso II do art. 3º da Lei Complementar nº 95/98:
+
+> **Lei Complementar nº 95/98**  
+> **CAPÍTULO II** – Das Técnicas de Elaboração, Redação e Alteração das Leis  
+> **Seção I** – Da Estruturação das Leis  
+> **Art. 3º** A lei será estruturada em três partes básicas:  
+> **[...]**  
+> **II -** parte normativa, compreendendo o texto das normas de conteúdo substantivo relacionadas com a **matéria regulada**;
+
+Por isso, como exemplo, quando se fala em regulação dos meios de comunicação, regulação do trabalho via plataformas digitais, e regulação das drogas, quer-se referir à alteração ou edição de leis que regulem essas matérias.
+
+Por sua vez, **regulamentação** é atividade do **Poder Regulamentar**, que objetiva determinar a forma processual e a fiel execução das imposições legais. O decreto é considerado um ato de regulamentação de primeiro grau. Nessa senda, a CF/88 preceitua:
+
+> **Constituição Federal de 1988**  
+> **Art. 84.** Compete privativamente ao <a title="Por extensão e com base no princípio da simetria constitucional, a competência para expedir decretos e regulamentos também se aplica aos chefes dos Executivos estaduais e municipais. Ademais, existem os decretos legislativos, elaborados e promulgados pelo Poder Legislativo, destinados a regulamentar matérias de sua competência exclusiva e que possuem força de lei ordinária. Do ponto de vista hierárquico, os atos normativos de regulamentação podem ser classificados em segundo grau, terceiro grau e assim por diante, conforme a posição que ocupam na estrutura normativa. Para atos normativos inferiores a decreto, vide Decreto Federal nº 10.139/19." style="text-decoration: underline;">Presidente da República</a>:  
+> **IV -** sancionar, promulgar e fazer publicar as leis, bem como expedir **decretos e regulamentos** para sua **fiel execução**;
+
+Contrariamente à regulação mediante instrumentos normativos com força de lei, os atos administrativos que regulamentam as leis não têm o condão de criar direitos e obrigações. Nessa direção, conforme a CF/88:
+
+> **Constituição Federal de 1988**  
+> **Art. 49.** É da competência exclusiva do Congresso Nacional:  
+> **V -** sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa;
+
+Em outras palavras, as disposições normativas de um decreto que inovam no ordenamento jurídico, ou seja, que extrapolam os limites legais previamente estabelecidos, são inválidas e, por conseguinte, não produzem, ou devem produzir, efeitos jurídicos.
+
+---
+
+**Questões:**
+
+<iframe 
+  src="https://docs.google.com/forms/d/e/1FAIpQLSeCAJ2kD8m44uY_EBZ46qpx-fGi1r_ICTqKOMI0xM9477yzDw/viewform?embedded=true" 
+  width="100%" 
+  height="1500" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0">
+  Carregando…
+</iframe>

@@ -19,9 +19,10 @@ bibliography: references.bib
 
 format:
   html:
+    smooth-scroll: true
     theme:
-      light: lux
-      dark: slate
+      light: brite
+      dark: cyborg
     number-depth: 3
     number-sections: false
     css: "style.css"
@@ -37,4 +38,9 @@ format:
           </script>
 lang: pt
 
+comments:
+  hypothesis: 
+    theme: clean
+  giscus: 
+    repo: lsbjordao/Introducao-Direito-Ambiental
 

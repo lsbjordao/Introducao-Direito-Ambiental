@@ -1,24 +1,27 @@
 # Constituição Federal da República Federativa do Brasil de 1988
 
-O Brasil é uma República Federativa que compreende a Uniãos, os Estados, o Distrito Federal e os Municípios, todos autônomos.
+Experimente a consulta à CF/88 em um versão de livro digital: [https://lsbjordao.github.io/CF88/](https://lsbjordao.github.io/CF88/).
+
+## Forma Federativa do Estado
+
+O Brasil é uma República Federativa que compreende a Uniãos, os Estados, o Distrito Federal e os Municípios, todos autônomos. Essa união indissolúvel é uma cláusula pétrea segundo o art. 60 § 4º.
 
 A autonomia federativa assenta-se em dois elementos básicos:
+
 - existência de órgãos governamentais próprios; e
-- posse de competências exclusivas.
+- posse de competências e poderes exclusivos.
 
 A repartição de competências entre a União, os Estados-membros, Municípios e o Distrito Federal dá origem a um estrutura estatal complexa em que diversas esferas governamentais se manifestam sobre uma mesma população e um mesmo território.
 
-Segundo a teoria do federalismo, a repartição de poderes autônomos constitui o núcleo do conceito do Estado Federal. Poderes, estes, distribuídos entre as entidades autônomas, que passam a compor seu campo de atuação e de jurisdição, sua área de competência.
+Segundo a teoria do federalismo, a repartição de poderes autônomos constitui o núcleo do conceito do Estado Federal. Poderes, estes, distribuídos entre as entidades autônomas, que passam a compor seu campo de atuação e de jurisdição, a sua área de competência.
 
+## Supremacia da Constituição
 
+A supremacia da Constituição é um princípio fundamental do direito constitucional que estabelece a Constituição como norma superior dentro do ordenamento jurídico de um Estado. Esse princípio significa que todas as outras normas e atos normativos devem estar em conformidade com os preceitos constitucionais. Caso contrário, são considerados inconstitucionais e, portanto, inválidos. A supremacia da Constituição assegura a estabilidade e a coerência do sistema jurídico, pois garante que os direitos e deveres fundamentais, bem como as estruturas de poder e as normas que regem o Estado, estejam sempre alinhados aos princípios originários constitucionais.
 
+Esse princípio também se reflete no **controle de constitucionalidade**, que permite que o poder judiciário, por meio de tribunais especializados, verifique se as leis e atos normativos estão de acordo com a Constituição. A supremacia da Constituição, portanto, é essencial para a proteção da democracia e dos direitos fundamentais, funcionando como uma espécie de baliza que orienta todo o ordenamento jurídico do país.
 
-
-Os princípios fundamentais.
-
-Supremacia da Constituição.
-
-## Fundamentos
+## Valores Fundamentais
 
 Os **fundamentos** da República Federativa são enumerados no art. 1º da CF/88
 
@@ -48,9 +51,7 @@ A <a title="Forma de Governo" style="text-decoration: underline;">República</a>
 
 ### Soberania
 
-É o fundamento próprio do Estado. C
-
-Refere-se à independência do Brasil perante outros países e à sua autoridade para decidir sobre seus próprios assuntos, sem interferência externa. Isso significa que o Brasil tem poder supremo dentro do seu território e pode se organizar politicamente conforme suas próprias leis e interesses.
+A soberania é um dos pilares fundamentais do Estado e representa a autoridade máxima e irrestrita de um país sobre seu território e população e independência perante outros países e sua autoridade para decidir sobre seus próprios assuntos, sem interferência externa. Isso significa que o Brasil tem poder supremo dentro do seu território e pode se organizar politicamente conforme suas próprias leis e interesses.
 
 ::: {layout-ncol=2}
 
@@ -74,6 +75,13 @@ Compete à União:
 @fig-alcantara
 
 ![Base Espacial de Alcântara, Maranhão.](./images/alcantara.jpg){#fig-alcantara}
+
+A Base Espacial de Alcântara, localizada no Maranhão, é um exemplo complexo de interação entre soberania nacional, acesso restrito e questões ambientais. Embora o Brasil seja soberano sobre o território, áreas específicas da base são de acesso restrito, especialmente aquelas utilizadas por parceiros internacionais como os Estados Unidos, conforme o Acordo de Salvaguardas Tecnológicas (AST). Esse acordo permite o uso comercial da base por empresas estrangeiras, mas impõe limitações ao Brasil, como a proibição de lançar satélites próprios a partir da base.
+
+Essa situação levanta questões sobre a soberania nacional, pois áreas dentro do território brasileiro ficam sob controle estrangeiro, limitando o acesso e a autonomia do Estado. Além disso, a construção e operação da base não foram precedidas por estudos de impacto ambiental adequados, o que gerou preocupações sobre os efeitos dos lançamentos de foguetes na região.
+
+Em caso de danos ambientais decorrentes das atividades da base, a responsabilidade recai sobre o Estado brasileiro, que deve garantir a reparação dos danos e a proteção do meio ambiente, conforme estabelece a Constituição Federal. 
+
 :::
 
 :::
@@ -186,9 +194,7 @@ b) declarar a inconstitucionalidade de tratado ou lei federal;
 
 - A CF/88 enumera os direitos e garantias como referentes à vida, à liberdade, à igualdade, à segurança e à propriedade (CF/88, art. 5º, *caput*).
 
-- As disposições alcança pessoas físicas como também as jurídicas, no que couber.
-
-- A **igualdade**, ou a isonomia, é um princípio que determina o convívio de todos, sem discriminações. Esse princípio inclui o princípio de justiça social
+- Estas disposições alcançam pessoas físicas como também as jurídicas, no que couber.
 
 **Lista sumária, não exaustiva, de Direitos e Garantias:**
 
@@ -201,7 +207,7 @@ b) declarar a inconstitucionalidade de tratado ou lei federal;
 - **São livres:**
     - a manifestação do pensamento (IV);
     - a manifestação intelectual, artística, científica e de comunicação (IX);
-    - a crença e a prátic religiosa (VI);
+    - a crença e a prática religiosa (VI);
     - o exercício de qualqeur trabalho, atendidas as qualificações da lei (XIII);
     - a locomoção no território nacional em tempo de paz (XV);
     - a reunião pacífica, sem armas (XVI);

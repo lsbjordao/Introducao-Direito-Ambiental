@@ -2,13 +2,13 @@
 
 ## O que é o Estado Moderno?
 
-### Em que plano, dimensão, domínio ou esfera da realidade o Estado moderno existe?
+### Em que plano, dimensão, domínio ou esfera da **realidade** o **Estado moderno** existe?
 
 ::: {.callout-note icon=false appearance="simple"}
 
 A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de diferentes perspectivas, dependendo da disciplina ou área de estudo. Em termos gerais, a realidade pode ser entendida como o conjunto de tudo o que existe e acontece, seja percebido ou não, seja físico ou abstrato. A seguir, algumas abordagens sobre o que é a realidade:
 
-1. Filosófica
+**1. Filosófica**
 
 - Realismo: A realidade existe independentemente da nossa percepção dela. O mundo e os objetos que nele existem possuem uma existência objetiva, e nossa percepção é uma representação ou reflexo dessa realidade objetiva.
 
@@ -16,19 +16,61 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
 
 - Fenomenologia: A realidade é aquilo que se apresenta à nossa consciência. Ou seja, a realidade não é algo totalmente separado de nós, mas é experienciado e interpretado a partir da nossa percepção e interpretação do mundo.
 
-2. Científica
+- Enativismo: O enativismo (ou enactivismo, do inglês enactivism) é uma abordagem interdisciplinar que propõe uma nova forma de compreender a **mente**, a **cognição** e a **realidade**. Em oposição às teorias tradicionais que tratam a cognição como processamento simbólico de informações, o enativismo defende que **cognição é ação incorporada no mundo** — ou seja, a mente surge da **interação dinâmica entre o organismo e seu ambiente**.
+   - **Cognição como ação (enaction)**  
+      - Conhecer não é representar o mundo externamente, mas **trazê-lo à existência na prática vivida**. O organismo enativa (traz à tona) um mundo de significados a partir de sua estrutura biológica e história de interações.
+   - **Corporeidade (embodiment)**  
+      - O corpo não é um mero suporte da mente — ele **constitui a cognição**. Nossas capacidades cognitivas surgem da maneira como nos movemos, sentimos e interagimos fisicamente com o mundo.
+   - **Acoplamento estrutural**  
+      - O organismo e o ambiente **se moldam mutuamente**. A cognição emerge da interação entre um sistema vivo e seu meio, e não de uma cópia interna de uma realidade externa.
+   - **Autopoiese**  
+      - Seres vivos são sistemas autopoiéticos — ou seja, **produzem e mantêm a si mesmos** por meio de redes de processos que os mantêm organizados. Essa noção é central para entender como a cognição se enraíza na vida.
+   - **Inexistência de uma realidade independente acessível diretamente**  
+      - O mundo que conhecemos é o mundo que surge na **relação com o organismo**. Assim, a realidade é **experienciada**, não apenas observada.
+   - **Autores fundamentais**
+      - **Humberto Maturana (1928–2021)** e **Francisco Varela (1946–2001)**  
+         - *Máquinas y Seres Vivos: Una teoría sobre la organización biológica* (1973).
+         - Concepção da vida como base da cognição. Propuseram a noção de **autopoiese**, sugerindo que todo sistema vivo é também um sistema cognitivo — não há cognição sem vida, nem vida sem cognição.  
+         - Defendiam que todo conhecimento é construído a partir do ponto de vista do observador:  
+         - “Tudo o que é dito, é dito por um observador.”
+      - **Francisco Varela**, com **Evan Thompson** e **Eleanor Rosch**  
+         - *"The Embodied Mind: Cognitive Science and Human Experience"* (1991)  
+         - Introdução formal do termo **enactive cognition** (cognição enativa).  
+         - Integra três domínios: **ciência cognitiva**, **fenomenologia (especialmente Merleau-Ponty)** e **budismo tibetano**.  
+         - Enfatizam a importância da **experiência vivida** como parte da investigação científica da mente.
+      - **Evan Thompson**  
+         - *"Mind in Life: Biology, Phenomenology, and the Sciences of Mind"* (2007)  
+         - Expande as ideias do enativismo relacionando-as com a **fenomenologia de Merleau-Ponty**, a **biologia** e a **neurociência contemporânea**.  
+         - Argumenta que **a mente não pode ser compreendida sem entender a vida**, e vice-versa.
+      - **Alva Noë**  
+         - *"Action in Perception"* (2004)  
+         - Desenvolve o conceito de percepção como uma forma de ação.  
+         - Mostra que a experiência perceptiva não é passiva nem interna, mas depende de como o sujeito se envolve com o mundo de maneira sensório-motora.
+   - Implicações do enativismo
+      - **Para a ciência cognitiva**: rejeita o modelo computacional da mente e propõe uma ciência mais integrada com a biologia e a experiência vivida.
+      - **Para a filosofia da mente**: questiona a separação entre sujeito e objeto, mente e corpo, interno e externo.
+      - **Para a psicologia e neurociência**: oferece caminhos alternativos para compreender consciência, percepção e emoção.
+
+| **Corrente**      | **Visão da Mente**                                           | **Relação com o Mundo**                            |
+|-------------------|-------------------------------------------------------------|---------------------------------------------------|
+| **Realismo**      | A mente representa uma realidade externa objetiva           | Observador passivo, que reflete sobre o mundo externo |
+| **Idealismo**     | A realidade depende da mente ou consciência                  | Observador como criador, que dá forma à realidade através da percepção |
+| **Fenomenologia** | A realidade é constituída na experiência consciente          | Observador encarnado, experienciando o mundo através do corpo e da percepção |
+| **Enativismo**    | A mente surge da ação incorporada no mundo e no ambiente    | Observador como participante ativo e co-criador, construindo o conhecimento através da interação com o mundo |
+
+**2. Científica**
 
 Na ciência, a realidade é frequentemente abordada como aquilo que pode ser medido, observado ou testado de maneira objetiva, usando métodos empíricos e experimentais. Pode se referir tanto ao mundo físico, como a constituição do universo, quanto aos fenômenos mais abstratos, como fenômenos sociais ou psicológicos, que são observados em diferentes níveis de análise.
 
 A física, por exemplo, lida com a realidade em termos de leis naturais e partículas subatômicas, enquanto a biologia e a sociologia abordam a realidade em relação aos organismos e interações sociais.
 
-3. Cultural e Social
+**3. Cultural e Social**
 
 A realidade pode ser também construída de maneira coletiva, em um processo social e cultural. O que uma sociedade define como "real" pode ser, em grande parte, um consenso coletivo, um conjunto de normas e valores estabelecidos ao longo do tempo, que moldam as percepções das pessoas sobre o mundo.
 
 Isso está ligado à ideia de realidades sociais e como diferentes culturas ou grupos sociais podem ter visões e interpretações distintas sobre o que constitui "realidade". Exemplo disso é a noção de "realidade virtual", que é criada por meios digitais e tecnologias, embora não seja fisicamente tangível, ainda é considerada uma parte da experiência humana contemporânea.
 
-4. Psicológica
+**4. Psicológica**
 
 A realidade também pode ser percebida de maneira individual, ou seja, a maneira como uma pessoa experimenta e interpreta o mundo ao seu redor. A percepção individual da realidade é moldada por fatores psicológicos, como crenças, emoções, memória, e até mesmo condições mentais.
 
@@ -56,7 +98,8 @@ O que uma pessoa percebe como real pode ser diferente do que outra pessoa perceb
 
 ::: {#second-column style="display: flex; justify-content: center;"}
 ![](./images/popper.jpeg)
-Karl Popper (1902--1994)
+Karl Popper (1902--1994), muito conhecimento pela sua concepção do método científico, apresentada, principalmente, em sua obra “A Lógica da Pesquisa Científica”, publicada originalmente em 1934 em alemão com o título "*Logik der Forschung*". A tradução para o inglês, com revisões do próprio Popper, saiu em 1959.
+
 :::
 
 :::
@@ -81,6 +124,7 @@ A ideia de realidade intersubjetiva não é um pioneirismo de Harari — embora 
 **Alfred Schutz**, influenciado por Husserl, desenvolveu o conceito de realidade intersubjetiva como "mundo da vida" compartilhado, base das interações sociais.
 
 **Peter Berger** e **Thomas Luckmann**, em **A Construção Social da Realidade** (1966), consolidam a noção de realidade intersubjetiva como o universo onde significados são socialmente produzidos, transmitidos e mantidos.
+
 - A **realidade social** é algo que não é dada, mas construída por meio da interação humana.
    - Essa construção acontece em três etapas principais:
       - Externalização: os seres humanos criam instituições e práticas sociais;
@@ -146,7 +190,7 @@ Quanto vale uma pizza?
 
 - Dinheiro, Leis, Religião, Estado e Nação pertencem à realidade intersubjetiva; têm enorme poder dentro de uma rede informacional específica e não tem nenhum sentido fora dela.
 
-Em Nexus, Harari destaca o **livro** e o **prelo** (imprensa tipográfica) como os primeiros instrumentos das tecnologias da informação, atuando como veículos fundamentais para a construção e disseminação de redes intersubjetivas de conhecimento e crença.
+Em Nexus, Harari destaca o **livro** e o **prelo** (imprensa tipográfica) como os primeiros instrumentos das tecnologias da informação, atuando como veículos fundamentais para a construção e disseminação de redes intersubjetivas de conhecimento e crença. Essas inovações provocaram revoluções nas formas de circulação da informação no cotidiano das pessoas e organizações.
 
 ```{=html}
 <table style="width: 100%; border-collapse: collapse; height: 300px;">
@@ -177,12 +221,51 @@ Kendall Haven (1976-) ![](https://flagcdn.com/w40/us.png){width=2ex}
 
 *Story Proof: The Science Behind the Startling Power of Story*, 2007
 
-"A mente humana se baseia em estórias e na arquitetura da estória como mapa primário para o entendimento, encontrando sentido, lembrando e planejando nossa vida. A vida é como as estórias por pensamos em termos de estórias."
+- Primeiro autor a sistematizar a base científica do *storytelling*.
+- Reuniu dezenas de estudos em neurociência, cognição e pedagogia para provar que a narrativa é o modo natural de pensamento humano.
+
+> "A mente humana se baseia em estórias e na arquitetura da estória como mapa primário para o entendimento, encontrando sentido, lembrando e planejando nossa vida. A vida é como as estórias por pensamos em termos de estórias."
+
+1. Base científica sólida aplicada à narrativa:
+
+- Antes de *Story Proof*, muitos autores já celebravam o poder da narrativa, mas Haven foi um dos primeiros a buscar provas empíricas e fundamentar cientificamente a importância das estórias. Ele argumenta que as estórias não são apenas uma forma de transmitir informações, mas um mecanismo central da cognição humana.
+
+2. Integração multidisciplinar:
+
+- O livro destaca por conectar descobertas de diferentes campos — como o funcionamento da memória, os efeitos da emoção na aprendizagem, e o processamento da linguagem — para sustentar a tese de que a narrativa é essencial para o raciocínio, a comunicação e a tomada de decisão.
+
+3. Aplicações práticas:
+
+- Haven não se limita à teoria. Ele mostra como aplicar o conhecimento sobre a estrutura da estória em ambientes educacionais, organizacionais e comunicacionais, antecipando discussões contemporâneas sobre *storytelling* em marketing, ciência, educação e política.
+
+4. Afirmação ousada e inovadora:
+- A frase  — “*a mente humana se baseia em estórias* [...]” — resume de forma impactante o cerne do argumento de Haven, que rompe com visões mais tradicionais de que o pensamento humano seria puramente lógico ou analítico. Em vez disso, o autor afirma que pensamos literalmente em forma de estórias, o que redefine como entendemos aprendizado, persuasão e até identidade pessoal.
 
 :::{.callout-tip collapse="true"}
-*Storytelling* de dados.
 
-criadores de mitos e burocratas
+## *Storytelling*
+
+O termo "storytelling" como conceito estruturado e estudado começa a ganhar destaque a partir do século XX, embora o ato de contar estórias seja milenar. A seguir, uma breve linha do tempo com os principais marcos e autores que contribuíram para o nascimento e consolidação da ideia de storytelling como prática e objeto de estudo:
+
+1. Walter Benjamin – O Narrador (1936)
+   - Um dos primeiros intelectuais a refletir sobre o declínio da arte da narrativa oral na modernidade.
+   - Embora não use o termo "*storytelling*", seu ensaio é fundamental para pensar a função social da narrativa.
+
+2. Joseph Campbell – O Herói de Mil Faces (1949)
+   - Introduz o conceito do monomito ou “jornada do herói”, mostrando que mitos e estórias seguem estruturas semelhantes ao redor do mundo.
+   - Campbell não fala em “*storytelling*” diretamente, mas influencia profundamente o cinema (ex: George Lucas com *Star Wars* ([YouTube](https://www.youtube.com/watch?v=dNs7c41JbTI))) e mais tarde o campo de *storytelling* aplicado.
+
+3. Jerome Bruner – Psicologia e educação narrativa (décadas de 1980–1990)
+   - Um dos primeiros psicólogos a argumentar que o ser humano pensa e aprende por meio de narrativas.
+   - Bruner diferencia dois modos de pensamento: o paradigmático (lógico-científico) e o narrativo.
+   - Ele escreve que a narrativa é uma forma fundamental de organizar a experiência humana — uma ideia retomada diretamente por Kendall Haven.
+
+4. Barbara Hardy – *Towards a Poetics of Fiction: 3) An Approach through Narrative* [@Hardy1968]
+   - *Narrative as a Primary Act of Mind*
+   - Crítica literária britânica que afirmou que “*pensamos em forma de estórias antes de pensarmos de qualquer outra forma*”, antecipando ideias de Bruner e Haven.
+   
+:::
+
 :::
 
 ::: {.box data-aos="fade-up"}
@@ -217,12 +300,12 @@ Steve Cutts, 2012. *Man*
 
 ![](./images/carlson.jpg){width=2in}
 
-Rachel Carson foi uma cientista, bióloga marinha, escritora e ecologista norte-americana. Por meio da publicação de Silent Spring (1962), além de diversos artigos e obras voltadas ao meio ambiente, desempenhou um papel fundamental no surgimento da consciência ambiental moderna.
+Rachel Carson foi uma cientista, bióloga marinha, escritora e ecologista norte-americana. Por meio da publicação de *Silent Spring* (1962), além de diversos artigos e obras voltadas ao meio ambiente, desempenhou um papel fundamental no surgimento da consciência ambiental moderna.
 
 :::
 
 ::: {#second-column style="display: flex; justify-content: center;"}
-Silent Spring, 1962
+*Silent Spring*, 1962
 
 ![](./images/silent-spring.jpg)
 
@@ -253,21 +336,130 @@ Alerta sobre os impactos negativos do uso de pesticidas, e o surgimento de movim
 
 ::: {.box data-aos="fade-up"}
 
+<!-- Garrett Hardin -->
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+**Garrett Hardin** (1915-2003) ![](https://flagcdn.com/w40/us.png){width=2ex}
+
+**A Tragédia dos Comuns**, 1968
+
+![](./images/hardin.jpg){width=2in}
+
+Garrett Hardin, biólogo ecologista e filósofo americano, é conhecido por seu trabalho sobre os limites do crescimento populacional, os recursos naturais e o conceito da **tragédia dos comuns**. Ele publicou vários textos que abordam essas questões, sendo seu mais famoso o artigo "*The Tragedy of the Commons*" (1968) ([MichiganTechnologicalUniversity](https://pages.mtu.edu/~asmayer/rural_sustain/governance/Hardin%201968.pdf)), onde discutiu como os recursos compartilhados, quando usados de forma não regulamentada, podem levar ao esgotamento devido à ação individual de interesse próprio.
+
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+
+**O problema:** No artigo, Garrett Hardin explica que, quando os recursos naturais são compartilhados por uma comunidade (como pastagens, florestas ou pescarias), cada indivíduo age de acordo com seu interesse próprio (egoísticos). Em um sistema sem regulamentação, isso leva ao uso excessivo desses recursos, o que, em última instância, causa a sua degradação. 
+
+Hardin usa o exemplo das pastagens comunitárias (os "comuns"), onde cada pastor tem um incentivo para aumentar o número de seus rebanhos. Mesmo que isso beneficie cada pastor individualmente no curto prazo, o impacto coletivo leva ao esgotamento da pastagem, prejudicando todos a longo prazo.
+
+A tragédia ocorre porque, enquanto o benefício de adicionar mais um animal ao rebanho é privatizado (o pastor ganha diretamente), os custos de sobrecarga no recurso são compartilhados por toda a comunidade (a degradação da pastagem é um problema coletivo). Isso cria um dilema no qual ninguém pode agir de forma a evitar a degradação sem a colaboração de outros.
+
+**A solução:** Hardin defende que a solução para a tragédia dos comuns não está na liberdade absoluta de acesso aos recursos, mas na regulação e no controle para garantir o uso sustentável. Ele argumenta que a intervenção externa, através de leis ou instituições governamentais, é necessária para evitar o colapso ambiental.
+
+Hardin também introduz o conceito de "liberdade para agir" versus "liberdade para poluir" com sua afirmação "*freedom in a commons brings ruin to all*", afirmando que a verdadeira liberdade não deve resultar em prejuízos para os outros ou para o meio ambiente.
+
+:::
+
+:::
+
+:::
+
+---
+
+::: {.box data-aos="fade-up"}
+
+<!-- Conferência de Estocolmo -->
+::: {layout-ncol=2}
+
+::: {#first-column style="display: flex; justify-content: center;"}
+**Conferência de Estocolmo ou Conferência das Nações Unidas sobre o Meio Ambiente Humano** (Suécia, 1972)
+
+A Conferência de Estocolmo foi o primeiro evento internacional de grande escala que colocou a questão ambiental no centro da agenda política mundial. Realizada em Estocolmo, Suécia, de 5 a 16 de junho de 1972, a conferência teve como principal objetivo promover a consciência global sobre os problemas ambientais e estabelecer uma plataforma para discutir como os países poderiam enfrentar essas questões em nível global.
+
+- Objetivos da Conferência:
+   - Fomentar a cooperação internacional sobre questões ambientais.
+   - Discutir o impacto do desenvolvimento industrial e urbano sobre o meio ambiente.
+   - Elaborar uma agenda internacional para o futuro das políticas ambientais.
+   - Abordar a interdependência entre a proteção ambiental e o desenvolvimento econômico.
+
+- Resultados:
+   - Criação do Programa das Nações Unidas para o Meio Ambiente (PNUMA), com o objetivo de coordenar ações globais de preservação ambiental.
+   - Estabelecimento de políticas públicas mais orientadas para o meio ambiente, que surgiriam ao longo das décadas seguintes.
+   - Reconhecimento da conexão entre desenvolvimento econômico e proteção ambiental.
+
+:::
+
+::: {#second-column style="display: flex; justify-content: center;"}
+
+![](./images/estocolmo.jpg)
+
+A **Declaração de Estocolmo** foi um dos resultados mais importantes da conferência. Ela consistiu em 26 princípios, que delineavam as responsabilidades dos países e da comunidade internacional na preservação do meio ambiente e no desenvolvimento sustentável.
+
+A Conferência de Estocolmo e a Declaração de Estocolmo marcaram um **ponto de inflexão** na história das relações internacionais e da política ambiental. Elas fizeram com que as questões ambientais passassem a ser tratadas de forma mais séria no cenário global e ajudaram a moldar os princípios de sustentabilidade que continuamos a discutir e a aplicar até hoje.
+
+:::{.callout appearance="minimal" collapse="true"}
+
+##  Proclamação da Declaração de Estocolmo
+
+1. O homem é, ao mesmo tempo, obra e construtor do meio ambiente que o cerca, o qual lhe dá sustento material e lhe oferece oportunidades para se desenvolver intelectual, moral, social e espiritualmente. Ao longo de uma longa e tortuosa evolução da raça humana neste planeta, chegamos a uma etapa em que, graças à rápida aceleração da ciência e da tecnologia, o homem adquiriu o poder de transformar de inúmeras maneiras e em uma escala sem precedentes tudo o que o cerca. Os dois aspectos do meio ambiente humano, o natural e o artificial, são essenciais para o bem-estar do homem e para o gozo dos direitos humanos fundamentais, incluindo o direito à vida.
+
+2. A proteção e o melhoramento do meio ambiente humano são questões fundamentais que afetam o bem-estar dos povos e o desenvolvimento econômico do mundo inteiro, sendo um desejo urgente dos povos e um dever de todos os governos.
+
+3. O homem deve fazer uma constante avaliação de sua experiência e continuar descobrindo, inventando, criando e progredindo. Hoje em dia, a capacidade do homem de transformar o que o cerca, utilizada com discernimento, pode levar todos os povos aos benefícios do desenvolvimento e oferecer-lhes a oportunidade de enobrecer sua existência. Aplicado errônea e imprudentemente, o mesmo poder pode causar danos incalculáveis ao ser humano e ao seu meio ambiente. Em nosso redor, vemos multiplicar-se as provas do dano causado pelo homem em várias regiões da Terra: níveis perigosos de poluição da água, do ar, da terra e dos seres vivos; grandes transtornos no equilíbrio ecológico da biosfera; destruição e esgotamento de recursos insubstituíveis; e graves deficiências, nocivas à saúde física, mental e social do homem, no meio ambiente criado por ele, especialmente naquele em que vive e trabalha.
+
+4. Nos países em desenvolvimento, a maioria dos problemas ambientais está relacionada ao subdesenvolvimento. Milhões de pessoas vivem muito abaixo dos níveis mínimos necessários para uma existência humana digna, privadas de alimentação, vestuário, habitação, educação, condições de saúde e higiene adequadas. Assim, os países em desenvolvimento devem direcionar seus esforços para o desenvolvimento, levando em conta suas prioridades e a necessidade de salvaguardar e melhorar o meio ambiente. Com o mesmo fim, os países industrializados devem se esforçar para reduzir a distância que os separa dos países em desenvolvimento. Nos países industrializados, os problemas ambientais estão geralmente relacionados com a industrialização e o desenvolvimento tecnológico.
+
+5. O crescimento natural da população coloca continuamente problemas relativos à preservação do meio ambiente, e devem ser adotadas as normas e medidas apropriadas para enfrentá-los. De todas as coisas no mundo, os seres humanos são as mais valiosas. São eles que promovem o progresso social, criam riqueza social, desenvolvem a ciência e a tecnologia e, com seu árduo trabalho, transformam continuamente o meio ambiente humano. Com o progresso social e os avanços na produção, na ciência e na tecnologia, a capacidade do homem de melhorar o meio ambiente aumenta a cada dia.
+
+6. Chegamos a um momento da história em que devemos orientar nossos atos em todo o mundo com especial atenção às consequências que podem ter para o meio ambiente. Por ignorância ou indiferença, podemos causar danos imensos e irreparáveis ao meio ambiente da Terra, do qual dependem nossa vida e nosso bem-estar. Ao contrário, com um conhecimento mais profundo e uma ação mais prudente, podemos alcançar condições melhores de vida, em um meio ambiente mais de acordo com as necessidades e aspirações do homem. As perspectivas de elevar a qualidade do meio ambiente e criar uma vida satisfatória são grandes. É preciso entusiasmo, mas também serenidade de ânimo, trabalho árduo e sistemático. Para chegar à plenitude de sua liberdade dentro da natureza e em harmonia com ela, o homem deve aplicar seus conhecimentos para criar um meio ambiente melhor. A defesa e o melhoramento do meio ambiente humano para as gerações presentes e futuras tornaram-se uma meta imperiosa da humanidade, que deve ser perseguida, ao mesmo tempo em que se mantém as metas fundamentais já estabelecidas de paz e desenvolvimento econômico e social em todo o mundo, e em conformidade com elas.
+
+7. Para alcançar essa meta, será necessário que cidadãos e comunidades, empresas e instituições, em todos os planos, aceitem as responsabilidades que possuem e participem equitativamente desse esforço comum. Homens de toda condição e organizações de diferentes tipos plasmarão o meio ambiente do futuro, integrando seus próprios valores e a soma de suas atividades. As administrações locais e nacionais, e suas respectivas jurisdições, são responsáveis pela maior parte do estabelecimento de normas e pela aplicação de medidas em grande escala sobre o meio ambiente. Também se requer a cooperação internacional para conseguir recursos que ajudem os países em desenvolvimento a cumprir sua parte nesta esfera. Há um número crescente de problemas ambientais que, por seu alcance regional ou mundial, ou por repercutirem no âmbito internacional comum, exigem ampla colaboração entre as nações e a adoção de medidas pelas organizações internacionais, no interesse de todos. A Conferência apela aos governos e aos povos para que unam esforços para preservar e melhorar o meio ambiente humano em benefício do homem e de sua posteridade.
+
+:::
+
+:::
+
+:::
+
+:::
+
+---
+
+::: {.box data-aos="fade-up"}
+
 <!-- John Rawls -->
 ::: {layout-ncol=2}
 
 ::: {#first-column style="display: flex; justify-content: center;"}
 **John Rawls** (1921-2002) ![](https://flagcdn.com/w40/us.png){width=2ex}
 
-Rawls é uma das figuras mais importantes ao discutir a justiça social dentro do direito. Em sua obra "Uma Teoria da Justiça", ele desenvolve o conceito de justiça distributiva, onde as desigualdades sociais e econômicas só podem ser justificadas se beneficiam os mais desvantajosos (o princípio da diferença).		
+Rawls é uma das figuras mais importantes ao discutir a justiça social dentro do direito. Em sua obra "Uma Teoria da Justiça", ele desenvolve o conceito de **justiça distributiva**, onde as desigualdades sociais e econômicas só podem ser justificadas se beneficiam os mais desvantajosos (o princípio da diferença).		
 		
-véu da ignorância
+**O Conceito de Véu da Ignorância**
+
+Rawls propõe que, para determinar as regras de uma sociedade justa, deveríamos imaginar um cenário em que as pessoas não soubessem suas características individuais ou sociais antes de fazer escolhas sobre o sistema de justiça. Este exercício é chamado de "**o véu da ignorância**".
+
+A ideia básica é que, se as pessoas não soubessem qual posição ocupam na sociedade (se seriam ricos ou pobres, homens ou mulheres, brancos ou negros, etc.), elas escolheriam princípios de justiça que seriam imparciais e justos para todos. Isso porque, ao estarem sem qualquer preconceito ou conhecimento sobre sua própria posição, as pessoas seriam forçadas a escolher regras que protejam os interesses dos mais vulneráveis, uma vez que poderiam, hipoteticamente, ser qualquer pessoa na sociedade.
+
+- **Como o Véu da Ignorância Funciona**
+   - Rawls sugere que, para criar uma sociedade justa, as pessoas em um estado original (que não sabem sua posição futura) escolheriam duas coisas principais:
+      1. Liberdade básica e direitos fundamentais para todos:
+         - Cada pessoa teria o direito a um conjunto de liberdades e direitos iguais, como a liberdade de expressão, a liberdade de associação, a liberdade de pensamento, etc.
+      2. Princípio da diferença:
+         - As desigualdades sociais e econômicas podem ser permitidas, mas apenas se beneficiarem os mais desvantajosos na sociedade. Em outras palavras, a desigualdade só é justificável se ela melhorar a posição dos menos favorecidos, como na educação, saúde, e oportunidades econômicas.
+   - Assim, o véu da ignorância serve como uma ferramenta para garantir que as escolhas sejam feitas de forma imparcial e sem preconceitos, promovendo justiça e equidade.
 :::
 
 ::: {#second-column style="display: flex; justify-content: center;"}
 Uma Teoria da Justiça, 1971
 
 ![](./images/theory-of-justice.jpeg)
+
+![Véu da ignorância ([Wikipedia](https://pt.wikipedia.org/wiki/V%C3%A9u_da_ignor%C3%A2ncia))](./images/veu.jpg)
 
 :::
 
@@ -287,13 +479,40 @@ Uma Teoria da Justiça, 1971
 
 A teoria do direito de Dworkin sustenta que argumentos jurídicos adequados repousam na melhor interpretação moral possível das práticas em vigor em uma determinada comunidade. A essa teoria de argumentação jurídica agrega-se uma teoria de justiça, segundo a qual todos os juízos a respeito de direitos e políticas públicas devem basear-se na idéia de que todos os membros de uma comunidade são iguais enquanto seres humanos, independentemente das suas condições sociais e econômicas, ou de suas crenças e estilos de vida, e devem ser tratados, em todos os aspectos relevantes para seu desenvolvimento humano, com igual consideração e respeito.
 
-Elabora a ideia do juiz hércules
+**O Juiz Hércules**
+
+O Juiz Hércules é uma figura hipotética. Ele é um modelo idealizado de juiz, dotado de inteligência sobre-humana, conhecimento jurídico profundo e capacidade analítica extraordinária. 
+
+O objetivo de Dworkin ao imaginar esse juiz não era propor que tal pessoa existisse, mas sim explorar como o Direito deveria ser interpretado de maneira ideal.
+
+- Características do Juiz Hércules:
+   - **Conhecimento extensivo:** Ele conhece todo o ordenamento jurídico, a história das decisões judiciais, os princípios e valores morais da comunidade.
+   - **Consistência e coerência:** Busca interpretar o direito de modo que todas as decisões formem um sistema coerente, como se fossem capítulos de um mesmo livro.
+   - **Interpretação principialista:** Vai além das regras escritas. Aplica princípios jurídicos (como igualdade, liberdade, justiça) para decidir os casos mais difíceis.
+   - **Justiça substantiva:** Seu julgamento leva em consideração os direitos das pessoas, mesmo nos casos em que as regras são vagas ou omissas.
+-  O papel do Juiz Hércules:
+   - Dworkin utiliza Hércules para criticar o positivismo jurídico, especialmente a visão de H.L.A. Hart, que separava claramente direito e moral. Para Dworkin, os princípios morais fazem parte do direito e o juiz deve interpretá-los.
+   - O juiz Hércules mostra que não basta aplicar a lei mecanicamente — é preciso interpretá-la com base em princípios de justiça, equidade e integridade. Ele decide casos difíceis buscando a melhor resposta possível dentro do sistema jurídico, mesmo quando não há uma regra clara aplicável.
+
 :::
 
 ::: {#second-column}
 Levando os Direitos a Sério, 1977
 
 ![](./images/direitos-a-serio.jpg)
+
+![Ilustração de AI do Juiz Hércules, simbolizando a integração entre razão, sentimento e norma: a lupa representa a diligência interpretativa; o coração, a sensibilidade moral; o cérebro exposto, a racionalidade; e o livro, a base normativa do direito.](./images/juiz.png)
+
+- Exemplo prático:
+   - Imagine um caso em que uma lei não prevê claramente se um grupo minoritário tem direito a determinado benefício. O Juiz Hércules analisaria:
+      - A letra da lei
+      - As decisões anteriores
+      - Os princípios constitucionais
+      - Os valores morais da sociedade
+      - E tomaria uma decisão que respeite os direitos das pessoas, mesmo que não esteja expressamente prevista na legislação.
+- Em resumo
+   - O Juiz Hércules representa o ideal de um julgador que interpreta o direito com profundidade moral, sensibilidade aos princípios e compromisso com a coerência jurídica.
+   - Ele nos inspira a pensar o direito não como um conjunto de regras frias, mas como um campo interpretativo permeado por valores, princípios e direitos fundamentais.
 
 :::
 
@@ -311,7 +530,12 @@ Levando os Direitos a Sério, 1977
 ::: {#first-column}
 **Hans Jonas** (1903-1993) ![](https://flagcdn.com/w40/de.png){width=2ex}
 
-A relação entre o conceito de responsabilidade e desenvolvimento sustentável.
+Hans Jonas foi um filósofo alemão que se destacou por sua reflexão sobre ética, tecnologia e responsabilidade. Em sua obra mais conhecida, O Princípio Responsabilidade (1979), Jonas propõe uma ética para a civilização tecnológica, sustentada na ideia de que as ações humanas devem ser guiadas não apenas pelas consequências imediatas, mas, sobretudo, por seu impacto sobre as futuras gerações e a integridade do planeta.
+
+O pensamento de Hans Jonas oferece uma base filosófica robusta para o **desenvolvimento sustentável**, ao colocar a responsabilidade intergeracional no centro da ação ética, política e econômica. Seu legado nos lembra que, em um mundo em transformação acelerada, o dever de proteger a vida e os ecossistemas deve orientar todas as escolhas humanas.
+
+​Hans Jonas tem sido amplamente estudado por juristas, especialmente no contexto do direito ambiental, onde sua ética da responsabilidade oferece fundamentos para princípios jurídicos como o da precaução. No Brasil, sua influência é notável na legislação ambiental, sendo frequentemente citada em debates sobre justiça intergeracional e responsabilidade socioambiental [@Teixeira2013; @Waldman2017].
+
 :::
 
 ::: {#second-column}
@@ -335,9 +559,11 @@ A relação entre o conceito de responsabilidade e desenvolvimento sustentável.
 ::: {#first-column}
 **Elinor Ostrom** (1933-2012) ![](https://flagcdn.com/w40/us.png){width=2ex}
 
-A **Tragédia dos Comuns**
+Em seu livro *Governing the Commons* (1990), Ostrom argumenta que a visão de Hardin sobre a inevitabilidade da degradação dos recursos comuns devido ao comportamento egoísta dos indivíduos é simplista e não reflete a realidade observada em diversas comunidades ao redor do mundo. 
 
-Para discutir os bens comuns e como a gestão comunitária pode ser fundamental na preservação de espécies e ambientes ameaçados.
+Ela apresenta estudos de caso que mostram como grupos locais podem desenvolver regras e instituições para gerenciar recursos de maneira sustentável.
+
+Ostrom também critica a dicotomia proposta por Hardin entre soluções estatais e privatização, sugerindo que há uma terceira via: a autogestão comunitária. Ela enfatiza que as comunidades podem criar sistemas de governança que equilibram os interesses individuais e coletivos, promovendo a cooperação e evitando a tragédia dos comuns ([Philonomist](https://www.philonomist.com/en/article/can-we-escape-tragedy-commons)).
 
 :::
 
@@ -346,10 +572,30 @@ Para discutir os bens comuns e como a gestão comunitária pode ser fundamental 
 
 ![](./images/governing-the-commons.jpeg)
 
-:::
+O trabalho de Ostrom foi reconhecido pelo Comitê Nobel em 2009, que destacou sua análise da governança econômica, especialmente dos bens comuns. Ela foi a primeira mulher a receber o Prêmio Nobel de Ciências Econômicas, refletindo a importância e o impacto de suas contribuições para a compreensão da gestão de recursos compartilhados ([Investopedia](https://www.investopedia.com/articles/economics/12/nobel-prize-winning-economic-theories.asp)).
+
+**Revisão de Hardin**
+
+Posteriormente, Garrett Hardin reconheceu limitações em sua teoria original. Ele admitiu que o que descreveu como "tragédia dos comuns" na verdade se referia à "**tragédia dos comuns não geridos**", reconhecendo que a gestão inadequada, e não a natureza humana, é a verdadeira causa da degradação dos recursos comuns ([GarrettHardinSociety](https://www.garretthardinsociety.org/videos/video_803_segment3.html)).
 
 :::
 
 :::
 
 :::
+
+:::
+
+---
+
+**Questões:**
+
+<iframe 
+  src="https://docs.google.com/forms/d/e/1FAIpQLScqpZoVUUfbhqR4o25gEA_NKoXcj5hKghoafR5JdAlLQxRUZw/viewform?embedded=true" 
+  width="100%" 
+  height="4800" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0">
+  Carregando…
+</iframe>
