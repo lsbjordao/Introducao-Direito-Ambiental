@@ -22,7 +22,7 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
    - A experiência de um objeto ou fenômeno só existe porque existe alguém para percebê-lo.
    - **Representantes:** 
       - Platão (427–347 a.C.) – Idealismo Ontológico
-         -O mundo que percebemos com os sentidos (o mundo físico) é apenas uma sombra imperfeita de um mundo mais verdadeiro e imutável: o mundo das ideias (ou formas).
+         - O mundo que percebemos com os sentidos (o mundo físico) é apenas uma sombra imperfeita de um mundo mais verdadeiro e imutável: o mundo das ideias (ou formas).
       - Kant (1724–1804) – Idealismo Transcendental
          - Defendia que não podemos conhecer a *coisa em si* (a realidade em si mesma). O que conhecemos são fenômenos, isto é, a realidade tal como ela aparece para nós, moldada pelas estruturas da mente.
 
