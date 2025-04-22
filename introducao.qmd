@@ -14,7 +14,8 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
    - A realidade existe independentemente da nossa percepção dela. 
    - O mundo e os objetos que nele existem possuem uma existência objetiva.
    - Nossa mente (percepção) é uma representação ou reflexo dessa realidade objetiva, o mundo externo, que existe por si só.
-   - Representante: Aristóteles, que sustentava que a realidade é composta por substâncias concretas, que existem independentemente da nossa mente. Para ele, o mundo sensível é real em si — não é apenas uma cópia imperfeita de algo ideal, como defendia seu mestre Platão.
+   - Representante: 
+      - Aristóteles, que sustentava que a realidade é composta por substâncias concretas, que existem independentemente da nossa mente. Para ele, o mundo sensível é real em si — não é apenas uma cópia imperfeita de algo ideal, como defendia seu mestre Platão.
 
 - Idealismo: 
    - A realidade, ou pelo menos a nossa percepção dela, depende da mente. 
@@ -25,7 +26,7 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
 
 - Fenomenologia: 
    - A realidade é aquilo que se apresenta à nossa consciência. Ou seja, a realidade não é algo totalmente separado de nós, mas é experienciado e interpretado a partir da nossa percepção e interpretação do mundo.
-   - Representante: 
+   - Representantes: 
       - Edmund Husserl (1859–1938) — Fundador da Fenomenologia, pai da fenomenologia, ele defendia que, para compreender a essência dos fenômenos, era necessário "suspender" os julgamentos sobre o mundo externo — um processo chamado *epoché* — e focar na maneira como esses fenômenos aparecem à consciência.
       - Maurice Merleau-Ponty (1908–1961) — Fenomenologia da Percepção
          - Enfatizou o papel do **corpo** na experiência do mundo.
