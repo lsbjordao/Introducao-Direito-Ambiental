@@ -150,7 +150,7 @@ Significa que há liberdade para diferentes ideias, partidos e grupos políticos
 
 O pluralismo político assegura a livre expressão de ideias, inclusive aquelas que divergem do consenso científico. Embora essa diversidade seja fundamental para a democracia, ela também pode favorecer o avanço do **negacionismo ambiental**, comprometendo a criação e a aplicação de políticas públicas para proteger o meio ambiente.
 
-O termo "negacionismo ambiental" se popularizou no final da década de 1980, depois que o historiador francês Henry Rousso (1954-) passou a usá-lo para se referir a grupos e indivíduos que negavam a existência das câmaras de gás e o extermínio em massa de judeus pelo regime nazista durante a Segunda Guerra Mundial [[NationalGeographics](https://www.nationalgeographicbrasil.com/ciencia/2024/09/o-que-e-o-negacionismo-climatico-e-como-ele-se-manifesta); [Wikipedia](https://pt.wikipedia.org/wiki/Negacionismo_do_Holocausto); @Valim2021].
+O termo *negacionismo ambiental* começou a se popularizar no final da década de 1980, quando o historiador francês Henry Rousso (1954-) passou a utilizá-lo para descrever grupos e indivíduos que contestavam ou relativizavam registros históricos sobre a perseguição aos judeus e outros grupos durante a Segunda Guerra Mundial ([NationalGeographics](https://www.nationalgeographicbrasil.com/ciencia/2024/09/o-que-e-o-negacionismo-climatico-e-como-ele-se-manifesta); [Wikipedia](https://pt.wikipedia.org/wiki/Negacionismo_do_Holocausto)) [@Valim2021].
 
 ![Charge sobre o negacionismo ambiental e polarização política do cartunista Luiz Fernando Cazo.](./images/charge.jpg)
 
