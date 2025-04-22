@@ -106,9 +106,7 @@ Em outras palavras, as disposições normativas de de atos normativos que inovam
 
 ## Controle de Constitucionalidade
 
-Um dos controle de constitucionalidade cabe ao **Congresso Nacional** que tem a competência exclusiva de **sustar atos normativos do Poder Executivo** que excedam os limites legais (CF/88, Art. 49, V).
-
-O **Poder Judiciário** também tem um papel importante no controle dos atos normativos e regulamentares, especialmente no que diz respeito à constitucionalidade e legalidade desses atos. 
+O **Poder Judiciário** tem um papel fundamental no controle dos atos normativos e regulamentares, especialmente no que diz respeito à constitucionalidade e legalidade desses atos. 
 
 O Poder Judiciário pode atuar por meio do **controle de constitucionalidade**. Isso pode ocorrer de duas formas:
 
@@ -119,7 +117,9 @@ O Poder Judiciário pode atuar por meio do **controle de constitucionalidade**. 
   - Ação Declaratória de Constitucionalidade (ADC); e
   - Arguição de Descumprimento de Preceito Fundamental (ADPF)
 
-O **Ministério Público (MP)** também desempenha papel fundamental na proteção dos interesses difusos, coletivos e individuais homogêneos, especialmente nas áreas ambiental, urbanística, do consumidor, do patrimônio público, cultural e da ordem jurídica como um todo. Essa atribuição decorre diretamente da CF/88, que conferiu ao MP a missão de defender a ordem jurídica e os interesses sociais indisponíveis (CF/88, Art. 127).
+Algum controle de constitucionalidade também cabe ao **Congresso Nacional** que tem a competência exclusiva de **sustar atos normativos do Poder Executivo** que excedam os limites legais (CF/88, Art. 49, V).
+
+O **Ministério Público (MP)** também desempenha papel importante na proteção dos interesses difusos, coletivos e individuais homogêneos, especialmente nas áreas ambiental, urbanística, do consumidor, do patrimônio público, cultural e da ordem jurídica como um todo. Essa atribuição decorre diretamente da CF/88, que conferiu ao MP a missão de defender a ordem jurídica e os interesses sociais indisponíveis (CF/88, Art. 127).
 
 Nesse contexto, a **Ação Civil Pública (ACP)** é um dos principais instrumentos processuais à disposição do Ministério Público para o exercício desse dever. Prevista na [Lei Federal nº 7.347/1985](https://www.planalto.gov.br/ccivil_03/Leis/L7347Compilada.htm), a ACP permite ao MP propor ações judiciais voltadas à responsabilização por danos causados aos interesses difusos e coletivos, como o meio ambiente, inclusive com pedidos de tutela preventiva, reparatória ou inibitória.
 
