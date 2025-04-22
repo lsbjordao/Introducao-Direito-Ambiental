@@ -10,49 +10,49 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
 
 **1. Filosófica**
 
-- Realismo: 
+- **Realismo:** 
    - A realidade existe independentemente da nossa percepção dela. 
    - O mundo e os objetos que nele existem possuem uma existência objetiva.
    - Nossa mente (percepção) é uma representação ou reflexo dessa realidade objetiva, o mundo externo, que existe por si só.
-   - Representante: 
+   - **Representante:** 
       - Aristóteles, que sustentava que a realidade é composta por substâncias concretas, que existem independentemente da nossa mente. Para ele, o mundo sensível é real em si — não é apenas uma cópia imperfeita de algo ideal, como defendia seu mestre Platão.
 
-- Idealismo: 
+- **Idealismo:** 
    - A realidade, ou pelo menos a nossa percepção dela, depende da mente. 
    - A experiência de um objeto ou fenômeno só existe porque existe alguém para percebê-lo.
-   - Representantes: 
+   - **Representantes:** 
       - Platão (427–347 a.C.) – Idealismo Ontológico, mundo que percebemos com os sentidos (o mundo físico) é apenas uma sombra imperfeita de um mundo mais verdadeiro e imutável: o mundo das ideias (ou formas).
       - Kant (1724–1804) – Idealismo Transcendental, defendia que não podemos conhecer a "coisa em si" (a realidade em si mesma). O que conhecemos são fenômenos, isto é, a realidade tal como ela aparece para nós, moldada pelas estruturas da mente.
 
-- Fenomenologia: 
+- **Fenomenologia:** 
    - A realidade é aquilo que se apresenta à nossa consciência. Ou seja, a realidade não é algo totalmente separado de nós, mas é experienciado e interpretado a partir da nossa percepção e interpretação do mundo.
-   - Representantes: 
+   - **Representantes:** 
       - Edmund Husserl (1859–1938) — Fundador da Fenomenologia, pai da fenomenologia, ele defendia que, para compreender a essência dos fenômenos, era necessário "suspender" os julgamentos sobre o mundo externo — um processo chamado *epoché* — e focar na maneira como esses fenômenos aparecem à consciência.
       - Maurice Merleau-Ponty (1908–1961) — Fenomenologia da Percepção
          - Enfatizou o papel do **corpo** na experiência do mundo.
          - Escreveu a obra *Fenomenologia da Percepção*.
 
-- Enativismo: O enativismo (ou enactivismo, do inglês enactivism) é uma abordagem interdisciplinar que propõe uma nova forma de compreender a *mente*, a *cognição* e a *realidade*. Em oposição às teorias tradicionais que tratam a cognição como processamento simbólico de informações, o enativismo defende que *cognição é ação incorporada no mundo* — ou seja, a mente surge da *interação dinâmica entre o organismo e seu ambiente*.
-   - **Cognição como ação (enaction)**  
-      - Conhecer não é representar o mundo externamente, mas *trazê-lo à existência na prática vivida*. O organismo enativa (traz à tona) um mundo de significados a partir de sua estrutura biológica e história de interações.
-   - **Corporeidade (embodiment)**  
+- **Enativismo:** O enativismo (ou enactivismo, do inglês enactivism) é uma abordagem interdisciplinar que propõe uma nova forma de compreender a *mente*, a *cognição* e a *realidade*. Em oposição às teorias tradicionais que tratam a cognição como processamento simbólico de informações, o enativismo defende que *cognição é ação incorporada no mundo* — ou seja, a mente surge da *interação dinâmica entre o organismo e seu ambiente*.
+   - **Cognição como ação (enação)**  
+      - Desafia a ideia de que a cognição é um processo meramente interno e enfatiza a importância da interação ativa do organismo com o ambiente, onde o conhecimento é construído através da ação e da percepção.
+   - **Corporeidade**  
       - O corpo não é um mero suporte da mente — ele *constitui a cognição*. Nossas capacidades cognitivas surgem da maneira como nos movemos, sentimos e interagimos fisicamente com o mundo.
    - **Acoplamento estrutural**  
-      - O organismo e o ambiente *se moldam mutuamente*. A cognição emerge da interação entre um sistema vivo e seu meio, e não de uma cópia interna de uma realidade externa.
+      - O organismo e o ambiente *se moldam mutuamente*. A cognição emerge da interação entre um sistema vivo e seu meio, e não de uma cópia interna de uma realidade externa. O acoplamento estrutural acontece quando um organismo interage com o seu meio e, ao fazer isso, acaba por alterar a sua estrutura interna assim como a estrutura do meio com o qual está interagindo.
    - **Autopoiese**  
       - Seres vivos são sistemas autopoiéticos — ou seja, *produzem e mantêm a si mesmos* por meio de redes de processos que os mantêm organizados. Essa noção é central para entender como a cognição se enraíza na vida.
    - **Inexistência de uma realidade independente acessível diretamente**  
       - O mundo que conhecemos é o mundo que surge na *relação com o organismo*. Assim, a realidade é *experienciada*, não apenas observada.
-   - **Autores fundamentais**
-      - **Humberto Maturana (1928–2021)** e **Francisco Varela (1946–2001)**  
+   - **Autores fundamentais:**
+      - Humberto Maturana (1928–2021) e Francisco Varela (1946–2001)
          - *Máquinas y Seres Vivos: Una teoría sobre la organización biológica* (1973).
-         - Concepção da vida como base da cognição. Propuseram a noção de **autopoiese**, sugerindo que todo sistema vivo é também um sistema cognitivo — não há cognição sem vida, nem vida sem cognição.  
+         - Propuseram a noção de **autopoiese**, sugerindo que todo sistema vivo é também um sistema cognitivo — não há cognição sem vida, nem vida sem cognição.  
          - Defendiam que todo conhecimento é construído a partir do ponto de vista do observador:  
-         - “Tudo o que é dito, é dito por um observador.”
-      - **Francisco Varela**, com **Evan Thompson** e **Eleanor Rosch**  
+            - “Tudo o que é dito, é dito por um observador.”
+      - Francisco Varela, com Evan Thompson e Eleanor Rosch 
          - *"The Embodied Mind: Cognitive Science and Human Experience"* (1991)  
-         - Introdução formal do termo *enactive cognition* (cognição enativa).  
-         - Integra três domínios: ciência cognitiva, fenomenologia (especialmente Merleau-Ponty) e budismo tibetano.  
+         - Introdução formal do termo cognição enativa.  
+         - Integra três domínios: ciência cognitiva, fenomenologia (especialmente Merleau-Ponty) e budismo tibetano [@MacKenzie2009].  
          - Enfatizam a importância da **experiência vivida** como parte da investigação científica da mente como um elemento central na compreensão da mente humana, argumentando que a investigação científica deve considerar não apenas o cérebro e os processos cognitivos internos, mas também o modo como os seres humanos interagem e experienciam o mundo ao seu redor.
 
 
