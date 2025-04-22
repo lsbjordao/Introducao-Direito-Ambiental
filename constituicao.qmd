@@ -292,10 +292,10 @@ Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na l
 <span style="display: block; margin-left: 30px;">
     I - soberania nacional;<br>
     II - propriedade privada;<br>
-    III - <mark>função social da propriedade</mark>;<br>
+    III - <b>função social da propriedade</b>;<br>
     IV - livre concorrência;<br>
     V - defesa do consumidor;<br>
-    VI - <mark>defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação</mark>;<br>
+    VI - <b>defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação</b>;<br>
     VII - redução das desigualdades regionais e sociais;<br>
     VIII - busca do pleno emprego;<br>
     IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País.
@@ -315,7 +315,7 @@ A CF/88 estabeleceu como um dos princípios gerais da atividade econômica que �
 
 XXIII - a propriedade atenderá a sua função social;
 <span style="display: block; margin-left: 30px;">
-    XXIII - <mark>a propriedade atenderá a sua função social</mark>;
+    XXIII - <b>a propriedade atenderá a sua função social</b>;
 </span>
 
 :::
@@ -335,7 +335,7 @@ A função social é cumprida quando a propriedade rural atende, simultaneamente
 
 <span style="display: block; margin-left: 30px;">
     I - aproveitamento racional e adequado;<br>
-    II - <mark>utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente</mark>;<br>
+    II - <b>utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente</b>;<br>
     III - observância das disposições que regulam as relações de trabalho;<br>
     IV - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
 </span>
@@ -353,9 +353,9 @@ Ainda nessa seara, consoante o Código Civil (Lei Federal nº 10.406/02):
 O proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha.
 
 <span style="display: block; margin-left: 30px;">
-    § 1º <mark>O direito de propriedade deve ser exercido em consonância com as suas finalidades econômicas e sociais e de modo que sejam preservados, de conformidade com o estabelecido em lei especial, a **flora, a fauna, as belezas naturais, o equilíbrio ecológico e o patrimônio histórico e artístico, bem como evitada a poluição do ar e das águas**</mark>.<br>
+    § 1º <b>O direito de propriedade deve ser exercido em consonância com as suas finalidades econômicas e sociais e de modo que sejam preservados, de conformidade com o estabelecido em lei especial, a **flora, a fauna, as belezas naturais, o equilíbrio ecológico e o patrimônio histórico e artístico, bem como evitada a poluição do ar e das águas**</b>.<br>
     [...]<br>
-    § 3º <mark>O proprietário pode ser privado da coisa, nos casos de desapropriação, por necessidade ou **utilidade pública** ou **interesse social**, bem como no de requisição, em caso de perigo público iminente</mark>.<br>
+    § 3º <b>O proprietário pode ser privado da coisa, nos casos de desapropriação, por necessidade ou **utilidade pública** ou **interesse social**, bem como no de requisição, em caso de perigo público iminente</b>.<br>
     § 4º O proprietário também pode ser privado da coisa se o imóvel reivindicado consistir em extensa área, na posse ininterrupta e de boa-fé, por mais de cinco anos, de considerável número de pessoas, e estas nela houverem realizado, em conjunto ou separadamente, obras e serviços considerados pelo juiz de interesse social e econômico relevante.<br>
     § 5º No caso do parágrafo antecedente, o juiz fixará a justa indenização devida ao proprietário; pago o preço, valerá a sentença como título para o registro do imóvel em nome dos possuidores.
 </span>
