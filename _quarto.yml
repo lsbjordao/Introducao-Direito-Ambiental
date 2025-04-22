@@ -12,8 +12,10 @@ book:
     - constituicao.qmd
     - direito-ambiental.qmd
     - pnma.qmd
-    - panorama-internacional.qmd
+    - cdb.qmd
+    # - ods.qmd
     - references.qmd
+  google-analytics: "G-HMN3YR5PSN"
 
 bibliography: references.bib
 

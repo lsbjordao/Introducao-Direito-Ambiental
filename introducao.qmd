@@ -10,23 +10,38 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
 
 **1. Filosófica**
 
-- Realismo: A realidade existe independentemente da nossa percepção dela. O mundo e os objetos que nele existem possuem uma existência objetiva, e nossa percepção é uma representação ou reflexo dessa realidade objetiva.
+- Realismo: 
+   - A realidade existe independentemente da nossa percepção dela. 
+   - O mundo e os objetos que nele existem possuem uma existência objetiva.
+   - Nossa mente (percepção) é uma representação ou reflexo dessa realidade objetiva, o mundo externo, que existe por si só.
+   - Representante: Aristóteles, que sustentava que a realidade é composta por substâncias concretas, que existem independentemente da nossa mente. Para ele, o mundo sensível é real em si — não é apenas uma cópia imperfeita de algo ideal, como defendia seu mestre Platão.
 
-- Idealismo: A realidade, ou pelo menos a nossa percepção dela, depende da mente. A experiência de um objeto ou fenômeno só existe porque existe alguém para percebê-lo.
+- Idealismo: 
+   - A realidade, ou pelo menos a nossa percepção dela, depende da mente. 
+   - A experiência de um objeto ou fenômeno só existe porque existe alguém para percebê-lo.
+   - Representantes: 
+      - Platão (427–347 a.C.) – Idealismo Ontológico, mundo que percebemos com os sentidos (o mundo físico) é apenas uma sombra imperfeita de um mundo mais verdadeiro e imutável: o mundo das ideias (ou formas).
+      - Kant (1724–1804) – Idealismo Transcendental, defendia que não podemos conhecer a "coisa em si" (a realidade em si mesma). O que conhecemos são fenômenos, isto é, a realidade tal como ela aparece para nós, moldada pelas estruturas da mente.
 
-- Fenomenologia: A realidade é aquilo que se apresenta à nossa consciência. Ou seja, a realidade não é algo totalmente separado de nós, mas é experienciado e interpretado a partir da nossa percepção e interpretação do mundo.
+- Fenomenologia: 
+   - A realidade é aquilo que se apresenta à nossa consciência. Ou seja, a realidade não é algo totalmente separado de nós, mas é experienciado e interpretado a partir da nossa percepção e interpretação do mundo.
+   - Representante: 
+      - Edmund Husserl (1859–1938) — Fundador da Fenomenologia, pai da fenomenologia, ele defendia que, para compreender a essência dos fenômenos, era necessário "suspender" os julgamentos sobre o mundo externo — um processo chamado *epoché* — e focar na maneira como esses fenômenos aparecem à consciência.
+      - Maurice Merleau-Ponty (1908–1961) — Fenomenologia da Percepção
+         - Enfatizou o papel do **corpo** na experiência do mundo.
+         - Escreveu a obra *Fenomenologia da Percepção*.
 
-- Enativismo: O enativismo (ou enactivismo, do inglês enactivism) é uma abordagem interdisciplinar que propõe uma nova forma de compreender a **mente**, a **cognição** e a **realidade**. Em oposição às teorias tradicionais que tratam a cognição como processamento simbólico de informações, o enativismo defende que **cognição é ação incorporada no mundo** — ou seja, a mente surge da **interação dinâmica entre o organismo e seu ambiente**.
+- Enativismo: O enativismo (ou enactivismo, do inglês enactivism) é uma abordagem interdisciplinar que propõe uma nova forma de compreender a *mente*, a *cognição* e a *realidade*. Em oposição às teorias tradicionais que tratam a cognição como processamento simbólico de informações, o enativismo defende que *cognição é ação incorporada no mundo* — ou seja, a mente surge da *interação dinâmica entre o organismo e seu ambiente*.
    - **Cognição como ação (enaction)**  
-      - Conhecer não é representar o mundo externamente, mas **trazê-lo à existência na prática vivida**. O organismo enativa (traz à tona) um mundo de significados a partir de sua estrutura biológica e história de interações.
+      - Conhecer não é representar o mundo externamente, mas *trazê-lo à existência na prática vivida*. O organismo enativa (traz à tona) um mundo de significados a partir de sua estrutura biológica e história de interações.
    - **Corporeidade (embodiment)**  
-      - O corpo não é um mero suporte da mente — ele **constitui a cognição**. Nossas capacidades cognitivas surgem da maneira como nos movemos, sentimos e interagimos fisicamente com o mundo.
+      - O corpo não é um mero suporte da mente — ele *constitui a cognição*. Nossas capacidades cognitivas surgem da maneira como nos movemos, sentimos e interagimos fisicamente com o mundo.
    - **Acoplamento estrutural**  
-      - O organismo e o ambiente **se moldam mutuamente**. A cognição emerge da interação entre um sistema vivo e seu meio, e não de uma cópia interna de uma realidade externa.
+      - O organismo e o ambiente *se moldam mutuamente*. A cognição emerge da interação entre um sistema vivo e seu meio, e não de uma cópia interna de uma realidade externa.
    - **Autopoiese**  
-      - Seres vivos são sistemas autopoiéticos — ou seja, **produzem e mantêm a si mesmos** por meio de redes de processos que os mantêm organizados. Essa noção é central para entender como a cognição se enraíza na vida.
+      - Seres vivos são sistemas autopoiéticos — ou seja, *produzem e mantêm a si mesmos* por meio de redes de processos que os mantêm organizados. Essa noção é central para entender como a cognição se enraíza na vida.
    - **Inexistência de uma realidade independente acessível diretamente**  
-      - O mundo que conhecemos é o mundo que surge na **relação com o organismo**. Assim, a realidade é **experienciada**, não apenas observada.
+      - O mundo que conhecemos é o mundo que surge na *relação com o organismo*. Assim, a realidade é *experienciada*, não apenas observada.
    - **Autores fundamentais**
       - **Humberto Maturana (1928–2021)** e **Francisco Varela (1946–2001)**  
          - *Máquinas y Seres Vivos: Una teoría sobre la organización biológica* (1973).
@@ -35,9 +50,11 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
          - “Tudo o que é dito, é dito por um observador.”
       - **Francisco Varela**, com **Evan Thompson** e **Eleanor Rosch**  
          - *"The Embodied Mind: Cognitive Science and Human Experience"* (1991)  
-         - Introdução formal do termo **enactive cognition** (cognição enativa).  
-         - Integra três domínios: **ciência cognitiva**, **fenomenologia (especialmente Merleau-Ponty)** e **budismo tibetano**.  
-         - Enfatizam a importância da **experiência vivida** como parte da investigação científica da mente.
+         - Introdução formal do termo *enactive cognition* (cognição enativa).  
+         - Integra três domínios: ciência cognitiva, fenomenologia (especialmente Merleau-Ponty) e budismo tibetano.  
+         - Enfatizam a importância da **experiência vivida** como parte da investigação científica da mente como um elemento central na compreensão da mente humana, argumentando que a investigação científica deve considerar não apenas o cérebro e os processos cognitivos internos, mas também o modo como os seres humanos interagem e experienciam o mundo ao seu redor.
+
+
       - **Evan Thompson**  
          - *"Mind in Life: Biology, Phenomenology, and the Sciences of Mind"* (2007)  
          - Expande as ideias do enativismo relacionando-as com a **fenomenologia de Merleau-Ponty**, a **biologia** e a **neurociência contemporânea**.  
@@ -119,16 +136,16 @@ Para Popper, embora o Mundo 3 tenha origem na mente humana, ele possui uma exist
 
 A ideia de realidade intersubjetiva não é um pioneirismo de Harari — embora ele a popularize de forma muito acessível e impactante em Sapiens. O conceito tem raízes profundas na filosofia, sociologia e fenomenologia, bem anteriores a Harari.
 
-**Edmund Husserl** (1859–1938), fundador da fenomenologia, já tratava da intersubjetividade como condição para a constituição do mundo social.
+**Edmund Husserl** (1859–1938), fundador da fenomenologia, já tratava da intersubjetividade como condição para a constituição do mundo social: *porque **reconhecemos os outros como sujeitos**, e porque vivemos em um **horizonte compartilhado de sentido***.
 
-**Alfred Schutz**, influenciado por Husserl, desenvolveu o conceito de realidade intersubjetiva como "mundo da vida" compartilhado, base das interações sociais.
+**Alfred Schutz**, influenciado por Husserl, desenvolveu o conceito de realidade intersubjetiva como *mundo da vida* compartilhado, base das interações sociais.
 
-**Peter Berger** e **Thomas Luckmann**, em **A Construção Social da Realidade** (1966), consolidam a noção de realidade intersubjetiva como o universo onde significados são socialmente produzidos, transmitidos e mantidos.
+**Peter Berger** e **Thomas Luckmann**, em *A Construção Social da Realidade* (1966), consolidam a noção de realidade intersubjetiva como o universo onde significados são socialmente produzidos, transmitidos e mantidos.
 
 - A **realidade social** é algo que não é dada, mas construída por meio da interação humana.
    - Essa construção acontece em três etapas principais:
       - Externalização: os seres humanos criam instituições e práticas sociais;
-      - Objetivação: essas criações ganham autonomia e passam a parecer "naturais", como se sempre tivessem existido;
+      - Objetivação: essas criações ganham autonomia e passam a parecer *naturais*, como se sempre tivessem existido;
       - Internalização: os indivíduos, ao nascerem em uma sociedade, absorvem essas estruturas como parte da realidade.
    - Os humanos se destacam pela sua capacidade de construir a realidade social.
 :::
@@ -329,6 +346,50 @@ Alerta sobre os impactos negativos do uso de pesticidas, e o surgimento de movim
 
 5. **Chamado à ação:**
    - Ela propõe uma ciência mais ética e responsável, o controle racional dos pragas com alternativas menos danosas e a necessidade de envolver o público nas decisões sobre o meio ambiente.
+
+:::{.callout-tip collapse="true"}
+
+## Curisidades...
+
+1. Formação científica sólida
+
+- Carson formou-se em biologia marinha pelo *Chatham University* (então chamado de *Pennsylvania College for Women*) e fez mestrado em zoologia na *Johns Hopkins University*, uma das principais universidades dos EUA.
+
+2. Começou escrevendo roteiros para o governo
+
+- Ela trabalhou no *U.S. Fish and Wildlife Service*, escrevendo e editando textos científicos voltados ao público geral. Seus talentos como escritora foram reconhecidos desde cedo.
+
+3. Fama veio antes de *Silent Spring*
+
+- Antes de *Primavera Silenciosa*, ela já era uma autora respeitada. Seu primeiro grande sucesso foi *The Sea Around Us* (1951), que ficou 86 semanas na lista de mais vendidos do New York Times. Ela também escreveu *Under the Sea Wind* e *The Edge of the Sea*.
+
+4. *Silent Spring* mudou a legislação
+
+- *Silent Spring* teve um impacto direto na proibição do DDT nos EUA e inspirou a criação da Environmental Protection Agency (EPA) em 1970 [EPA](https://www.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status). A obra expôs como pesticidas bioacumulativos estavam contaminando a cadeia alimentar e afetando a saúde humana e da fauna.
+
+5. Foi alvo de ataques da indústria química
+
+- Após o lançamento de seu livro, Carson sofreu intensa campanha difamatória por parte da indústria química, que tentou desacreditá-la tanto como cientista quanto como mulher. Apesar disso, sua reputação científica e a força das evidências prevaleceram.
+
+7. Corajosa até o fim
+
+- Rachel Carson já estava lutando contra o câncer de mama durante a publicação de Silent Spring, mas escondeu sua doença do público para que sua mensagem não fosse diminuída. Faleceu em 1964, dois anos após a publicação do livro, aos 56 anos.
+
+8. Legado duradouro
+
+- Rachel Carson é frequentemente considerada a *mãe do movimento ambiental moderno*. Seu trabalho é referência em ecologia, toxicologia ambiental, conservação e política pública.
+
+9. Influenciou gerações de cientistas e ativistas
+
+- A influência de Carson se estende a figuras como Al Gore e Jane Goodall, além de inspirar leis de proteção ambiental em muitos países.
+
+10. Homenagens e memória
+
+- O U.S. Fish and Wildlife Service nomeou um refúgio de vida selvagem em sua homenagem. Seu nome está em escolas, bolsas de estudo e até navios oceanográficos. Em 1980, recebeu postumamente a Medalha Presidencial da Liberdade, a maior honraria civil dos EUA.
+
+**Fonte:** [123eco](https://123ecos.com.br/docs/rachel-carson/), [Wikipedia](https://pt.wikipedia.org/wiki/Rachel_Carson?utm_source=chatgpt.com).
+
+:::
 
 :::
 

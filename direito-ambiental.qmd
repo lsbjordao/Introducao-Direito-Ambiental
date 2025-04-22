@@ -173,24 +173,33 @@ Para fins do disposto na parte final do inciso VII do § 1º deste artigo, não 
 
 :::
 
-## A repartição da competência comum
+## Repartição das competências comuns
+
+A repartição das competências comuns prevista no artigo 23 da Constituição Federal de 1988 é considerada uma norma constitucional de eficácia limitada, pois sua plena aplicabilidade dependia da edição de uma lei complementar que regulamentasse a cooperação entre os entes federativos. Essa regulamentação foi estabelecida pela [Lei Complementar nº 140/2011](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm), que fixou normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios, visando ao equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
+
+A LC 140/2011 detalha as atribuições administrativas de cada ente federativo em matéria ambiental, promovendo um modelo de federalismo cooperativo. Ela estabelece, por exemplo, as competências específicas para o licenciamento ambiental e a fiscalização, buscando evitar sobreposições e conflitos entre os entes federativos.
 
 ### Aplicabilidade das normas constitucionais
 
-Normas constitucionais de:
+As normas constitucionais possuem diferentes graus de aplicabilidade e eficácia, sendo classificadas em três categorias principais:
 
-- eficácia plena
-- eficácia contida
-- eficácia limitada
+- eficácia **plena**
+  - As normas constitucionais de **eficácia plena** são as que podem ser aplicadas de imediato, como a instituição da língua portuguesa como idioma oficial (CF/88, art. 13).
+- eficácia **contida**
+  - As normas constitucionais de **eficácia contida** também têm aplicabilidade imediata, mas seu alcance pode ser restringido pela lei ordinária, como no art. 5º, XIII: 
+  
+  > é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer.
+- eficácia **limitada**
+  - As normas constitucionais de **eficácia limitada** são as que dependem de complementação de outras normas para serem aplicadas, **como no parágrafo único do art. 23 da CF/88**, que define **normas sobre a competência comum** da União, dos Estados, do Distrito Federal e dos Municípios: 
 
-As normas constitucionais de **eficácia plena** são as que podem ser aplicadas de imediato, como a instituição da língua portuguesa como idioma oficial (CF/88, art. 13).
-
-As normas constitucionais de **eficácia contida** também têm aplicabilidade imediata, mas seu alcance pode ser restringido pela lei ordinária, como no art. 5º, XIII: 
-
-> é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer.
-
-As normas constitucionais de **eficácia limitada** são as que dependem de complementação de outras normas para serem aplicadas, como no parágrafo único do art. 23 da CF/88, que define normas sobre a competência comum da União, dos Estados, do Distrito Federal e dos Municípios: 
-
-> Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
+  > Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
 
 ### Lei Complementar nº 140/11
+
+::: {.callout-note icon=false}
+
+## LC 140/11
+
+Art. 1º Esta Lei Complementar fixa normas, nos termos dos incisos III, VI e VII do caput e do parágrafo único do **art. 23 da Constituição Federal**, para a **cooperação** entre a União, os Estados, o Distrito Federal e os Municípios nas ações administrativas decorrentes do **exercício da competência comum** relativas à proteção das paisagens naturais notáveis, à proteção do meio ambiente, ao combate à poluição em qualquer de suas formas e à preservação das florestas, da fauna e da flora.
+
+:::

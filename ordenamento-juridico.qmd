@@ -2,13 +2,13 @@
 
 ## Conceituação
 
-O ordenamento jurídico pode ser definido como o conjunto estruturado e hierarquizado de normas (regras e princípios) que regulam a vida em sociedade dentro de um Estado de Direito. Ele é caracterizado pela unidade, coerência e completude, conforme destacado por @Bobbio_1995, e visa garantir segurança jurídica, previsibilidade e justiça na aplicação do direito.
+O ordenamento jurídico pode ser definido como o conjunto estruturado e hierarquizado de normas (regras e princípios) que regulam a vida em sociedade dentro de um Estado de Direito. Ele é caracterizado pela **unidade**, **coerência** e **completude**, conforme destacado por @Bobbio_1995, e visa garantir segurança jurídica, previsibilidade e justiça na aplicação do direito.
 
-A dimensão hierárquica das normas indica que há uma gradação entre elas, com a Constituição ocupando o topo da pirâmide normativa. Abaixo dela, encontram-se as leis complementares, ordinárias, decretos e demais atos normativos. Essa estrutura permite que o sistema jurídico mantenha coerência interna e possibilita o controle de validade das normas inferiores em relação às superiores.
+A **dimensão hierárquica das normas** indica que há uma gradação entre elas, com a Constituição ocupando o topo da pirâmide normativa. Abaixo dela, encontram-se as leis complementares, ordinárias, decretos e demais atos normativos. Essa estrutura permite que o sistema jurídico mantenha coerência interna e possibilita o controle de validade das normas inferiores em relação às superiores.
 
 Além disso, o ordenamento jurídico deve ser visto como um sistema em constante evolução, que busca responder aos desafios sociais e políticos por meio da interpretação e aplicação dinâmica de suas normas.
 
-![A Pirâmide de Kelsen representa a hierarquia das normas jurídicas, onde a norma fundamental está no topo, servindo de base para a validade das normas inferiores. No topo da pirâmide, encontra-se a Constituição, seguida pelas leis ordinárias, decretos e outros atos normativos. Essa estrutura ilustra a relação de subordinação entre as normas, com as normas inferiores sendo válidas apenas se estiverem de acordo com as superiores. Hans Kelsen (1881-1973) foi um jurista austríaco conhecido pela Teoria Pura do Direito, que buscava uma análise objetiva e científica do direito, separando-o de influências morais e políticas. Ele propôs que o direito fosse entendido como um sistema de normas, onde cada uma deriva de uma norma superior, a norma fundamental. Essa abordagem é ilustrada pela Pirâmide de Kelsen, onde as normas inferiores são subordinadas às superiores. Sua teoria foi criticada por ignorar o contexto ético e social do direito, sendo vista como excessivamente formalista.](images/piramide.png)
+![A Pirâmide de Kelsen representa a hierarquia das normas jurídicas, onde a norma fundamental está no topo, servindo de base para a validade das normas inferiores. A norma fundamntal é abstrata, um comando direto, como "obedeça-se à Constituição". Logo abaixo, encontra-se a própria Constituição, seguida pelas leis infraconstitucionais, regulamentos e atos normativos. Essa estrutura ilustra a relação de subordinação entre as normas, com as normas inferiores sendo válidas apenas se estiverem de acordo com as superiores. Hans Kelsen (1881-1973) foi um jurista austríaco conhecido pela Teoria Pura do Direito, que buscava uma análise objetiva e científica do direito, separando-o de influências morais e políticas. Sua teoria foi criticada por ignorar o contexto ético e social do direito, sendo vista como excessivamente formalista.](images/piramide.png)
 
 ## Regime jurídico
 
@@ -48,49 +48,82 @@ De modo geral, o ordenamento jurídico é regido por um sistema de **princípios
   Que não se confunda "norma" com "instrumento normativo", que é um documento que estabelece elementos como os conceitos, princípios, objetivos, diretrizes, procedimentos, instrumentos, indicadores, modos de agir, transgressões, sanções, de forma a orientar a atuação da organização (tal como a do Estado de Direito) e a tomada de decisões. 
   
   A norma é o conteúdo normativo, ou seja, o mandamento, o comando. É uma regra de conduta extraída da interpretação de um texto jurídico.
-  
-  Ademais, que também não se confunda "instrumentos normativos" com "atos normativos".
 
-## Instrumentos e atos normativos
+## Instrumentos jurídicos e atos normativos
 
-**Instrumentos normativos** é um termo não circunscrito no ordenamento jurídico. Ele pode ser entendido, de forma genérica, como os documentos que constituem o ordenamento jurídico. São os meios através dos quais um sistema jurídico adquire sua formalidade e materialidade.
+**Instrumentos normativos** é um termo não circunscrito no ordenamento jurídico, mas pode ser usado de maneira intercambiável com **intrumentos jurídicos**. Estes podem ser entendidos, de forma genérica, como os documentos que constituem o ordenamento jurídico. São os meios através dos quais um sistema jurídico adquire sua formalidade e materialidade. Em um contexto formal, para se referir de forma genérica, opte pelo termo "intrumentos jurídicos".
 
-Exemplos de instrumentos normativos são: a própria Constituição, as emendas constitucionais, leis complementares, ordinárias, delegadas, medidas provisórias, decretos, resoluções, deliberações, portarias e instruções normativas (CF/88, art. 59).
+Exemplos de instrumentos jurídicos são: a própria Constituição, as emendas constitucionais, leis complementares, ordinárias, delegadas, medidas provisórias, decretos, resoluções, deliberações, portarias e instruções normativas (CF/88, art. 59).
 
-**Atos normativos** são espécies de atos administrativos, que por sua vez são:
+**Atos normativos** são espécies de atos administrativos. Estes, por sua vez, são definidos como:
 
 > "*manifestações unilaterais da Administração Pública que tenham como fim adquirir, resguardar, transferir, modificar, extinguir e declarar direitos ou impor obrigações aos administrados ou a si própria*" [@Meirelles_2020].
 
-Atos normativos contêm comandos gerais da Administração Pública visando à **regulamentação** e à correta aplicação da lei. Exemplos de atos normativos são: decretos regulamentares, regimentos, resoluções, deliberações, portarias, instruções normativas, medidas provisórias.
-
-Contrariamente, a Constituição e leis não são espécies de atos normativos, mas, conforme visto, são instrumentos normativos.
+Os atos normativos distinguem-se por conterem *comandos gerais e abstratos*, voltados à **regulamentação** e fiel e correta execução das leis. São típicos do Poder Executivo, embora também possam ser expedidos pelos Poderes Legislativo e Judiciário no âmbito de suas competências organizacionais. Exemplos de atos normativos são: decretos regulamentares, regimentos, resoluções, deliberações, portarias, instruções normativas, medidas provisórias, provimentos.
 
 ## Regulação e regulamentação
 
-Em sentido amplo, **regulação** refere-se à competência do **Poder Legislativo** para editar leis que criam direitos e deveres. Veja o que diz o inciso II do art. 3º da Lei Complementar nº 95/98:
+Em sentido amplo, **regulação** pode ser compreendida como a atuação do Poder Público na disciplina de determinadas matérias, o que inclui a edição de leis pelo **Poder Legislativo**. É nesse sentido que o termo aparece, por exemplo, no inciso II do art. 3º da [Lei Complementar nº 95/98](https://www.planalto.gov.br/ccivil_03/Leis/LCP/Lcp95compilado.htm):
 
 > **Lei Complementar nº 95/98**  
+> Dispõe sobre a elaboração, a redação, a alteração e a consolidação das leis, conforme determina o parágrafo único do art. 59 da Constituição Federal, e estabelece normas para a consolidação dos atos normativos que menciona.
 > **CAPÍTULO II** – Das Técnicas de Elaboração, Redação e Alteração das Leis  
 > **Seção I** – Da Estruturação das Leis  
 > **Art. 3º** A lei será estruturada em três partes básicas:  
 > **[...]**  
 > **II -** parte normativa, compreendendo o texto das normas de conteúdo substantivo relacionadas com a **matéria regulada**;
 
-Por isso, como exemplo, quando se fala em regulação dos meios de comunicação, regulação do trabalho via plataformas digitais, e regulação das drogas, quer-se referir à alteração ou edição de leis que regulem essas matérias.
+Assim, quando se fala em regulação dos meios de comunicação, regulação do trabalho via plataformas digitais ou "regulação das drogas", pode-se estar se referindo à necessidade de alteração, criação ou atualização de normas legais que disciplinem essas matérias.
 
-Por sua vez, **regulamentação** é atividade do **Poder Regulamentar**, que objetiva determinar a forma processual e a fiel execução das imposições legais. O decreto é considerado um ato de regulamentação de primeiro grau. Nessa senda, a CF/88 preceitua:
+No entanto, em sentido mais técnico — especialmente no campo do Direito Administrativo —, **regulação** também se refere à atividade do **Poder Executivo**, exercida por órgãos e agências **reguladoras**, que estabelecem normas infralegais, fiscalizam e controlam setores específicos. <details style="display: inline-block;">
+  <summary style="cursor: pointer;">Exemplos:</summary>
+  Agência Nacional de Telecomunicações (ANATEL)<br>
+  Agência Nacional de Vigilância Sanitária (ANVISA)<br>
+  Agência Nacional de Aviação Civil (ANAC)<br>
+  Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP)<br>
+  Agência Nacional de Saúde Suplementar (ANS)<br>
+  Agência Nacional de Transportes Terrestres (ANTT)<br>Agência Nacional de Águas (ANA)<br>
+  Agência Brasileira de Inteligência (ABIN)<br>
+  Agência Nacional de Energia Elétrica (ANEEL)<br>
+  Comissão de Valores Mobiliários (CVM)
+</details>
+
+---
+
+**Regulamentação**, por sua vez, é uma atividade do **Poder Regulamentar**, atribuída ao **Poder Executivo**, com o objetivo de detalhar a forma de aplicação e execução das leis. O decreto regulamentar (ou de execução) é um exemplo clássico desse tipo de ato normativo, sendo considerado um instrumento de regulamentação de primeiro grau. Nessa senda, a CF/88 preceitua:
 
 > **Constituição Federal de 1988**  
-> **Art. 84.** Compete privativamente ao <a title="Por extensão e com base no princípio da simetria constitucional, a competência para expedir decretos e regulamentos também se aplica aos chefes dos Executivos estaduais e municipais. Ademais, existem os decretos legislativos, elaborados e promulgados pelo Poder Legislativo, destinados a regulamentar matérias de sua competência exclusiva e que possuem força de lei ordinária. Do ponto de vista hierárquico, os atos normativos de regulamentação podem ser classificados em segundo grau, terceiro grau e assim por diante, conforme a posição que ocupam na estrutura normativa. Para atos normativos inferiores a decreto, vide Decreto Federal nº 10.139/19." style="text-decoration: underline;">Presidente da República</a>:  
+> **Art. 84.** Compete privativamente ao <a title="Por extensão e com base no princípio da simetria constitucional, a competência para expedir decretos e regulamentos também se aplica aos chefes dos Executivos estaduais e municipais. Ademais, existem os decretos legislativos, elaborados e promulgados pelo Poder Legislativo, destinados a regulamentar matérias de sua competência exclusiva e que possuem força de lei ordinária. Do ponto de vista hierárquico, os atos normativos de regulamentação podem ser classificados em primeiro, segundo e terceiro grau e assim por diante, conforme a posição que ocupam na estrutura normativa. Para atos normativos inferiores a decreto, vide Decreto Federal nº 10.139/19." style="text-decoration: underline;">Presidente da República</a>:  
 > **IV -** sancionar, promulgar e fazer publicar as leis, bem como expedir **decretos e regulamentos** para sua **fiel execução**;
 
-Contrariamente à regulação mediante instrumentos normativos com força de lei, os atos administrativos que regulamentam as leis não têm o condão de criar direitos e obrigações. Nessa direção, conforme a CF/88:
+Ao contrário da regulação (*sensu lato*), por meio de normas com força de lei, os atos normativos que a regulamentam têm como função apenas detalhar sua aplicação, sem criar, por si mesmos, novos direitos ou obrigações. Nessa direção, conforme a CF/88:
 
 > **Constituição Federal de 1988**  
 > **Art. 49.** É da competência exclusiva do Congresso Nacional:  
 > **V -** sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa;
 
-Em outras palavras, as disposições normativas de um decreto que inovam no ordenamento jurídico, ou seja, que extrapolam os limites legais previamente estabelecidos, são inválidas e, por conseguinte, não produzem, ou devem produzir, efeitos jurídicos.
+Em outras palavras, as disposições normativas de de atos normativos que inovam no ordenamento jurídico, ou seja, que extrapolam os limites legais previamente estabelecidos, são inválidas e, por conseguinte, não produzem, ou devem produzir, efeitos jurídicos.
+
+## Controle de Constitucionalidade
+
+Um dos controle de constitucionalidade cabe ao **Congresso Nacional** que tem a competência exclusiva de **sustar atos normativos do Poder Executivo** que excedam os limites legais (CF/88, Art. 49, V).
+
+O **Poder Judiciário** também tem um papel importante no controle dos atos normativos e regulamentares, especialmente no que diz respeito à constitucionalidade e legalidade desses atos. 
+
+O Poder Judiciário pode atuar por meio do **controle de constitucionalidade**. Isso pode ocorrer de duas formas:
+
+- **Controle Difuso de Constitucionalidade (CF/88, Art. 97):** Quando **qualquer juiz**, no exercício de sua função, declara a inconstitucionalidade de uma norma (incluindo atos normativos do Executivo) em um caso concreto, incidentalmente. Isso é feito, por exemplo, em ações judiciais em que se questiona a validade de um ato normativo específico ([EnciclopediaJuridica-PUCSP](https://enciclopediajuridica.pucsp.br/verbete/56/edicao-1/controle-difuso-de-constitucionalidade?utm_source=chatgpt.com)).
+
+- **Controle Concentrado de Constitucionalidade (CF/88, Art. 102):** Realizado pelo **Supremo Tribunal Federal (STF)** por meio de:
+  - Ação Direta de Inconstitucionalidade (ADI/vulgo: ADIN);
+  - Ação Declaratória de Constitucionalidade (ADC); e
+  - Arguição de Descumprimento de Preceito Fundamental (ADPF)
+
+O **Ministério Público (MP)** também desempenha papel fundamental na proteção dos interesses difusos, coletivos e individuais homogêneos, especialmente nas áreas ambiental, urbanística, do consumidor, do patrimônio público, cultural e da ordem jurídica como um todo. Essa atribuição decorre diretamente da CF/88, que conferiu ao MP a missão de defender a ordem jurídica e os interesses sociais indisponíveis (CF/88, Art. 127).
+
+Nesse contexto, a **Ação Civil Pública (ACP)** é um dos principais instrumentos processuais à disposição do Ministério Público para o exercício desse dever. Prevista na [Lei Federal nº 7.347/1985](https://www.planalto.gov.br/ccivil_03/Leis/L7347Compilada.htm), a ACP permite ao MP propor ações judiciais voltadas à responsabilização por danos causados aos interesses difusos e coletivos, como o meio ambiente, inclusive com pedidos de tutela preventiva, reparatória ou inibitória.
+
+Dessa forma, a atuação do MP por meio da ACP não apenas protege direitos coletivos, mas também fortalece o controle de constitucionalidade de forma prática e cotidiana, garantindo que os direitos fundamentais previstos na Constituição sejam plenamente respeitados.
 
 ---
 
