@@ -13,7 +13,7 @@ book:
     - constituicao.qmd
     - direito-ambiental.qmd
     - pnma.qmd
-    - cdb.qmd
+    # - cdb.qmd
     # - ods.qmd
     - references.qmd
   google-analytics: "G-HMN3YR5PSN"
