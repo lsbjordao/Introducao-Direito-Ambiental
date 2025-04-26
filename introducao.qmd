@@ -127,10 +127,7 @@ Karl Popper (1902--1994), muito conhecimento pela sua concepção do método cie
 
 Para Popper, embora o Mundo 3 tenha origem na mente humana, ele possui uma existência autônoma e pode exercer influência causal sobre os outros mundos, sobretudo o Mundo 2. Essa divisão teve grande impacto na filosofia da ciência e da mente, ao oferecer uma maneira de pensar sobre a realidade que inclui tanto aspectos físicos quanto sociais e simbólicos.  
 
-:::
 ---
-
-::: {.box data-aos="fade-up"}
 
 **Yuval Noah Harari** (1976–), em **Sapiens: Uma Breve História da Humanidade**, e mais recentemente, mas não apenas, em **Nexus: Uma breve história das redes de informação, da Idade da Pedra à inteligência artificial**, destaca uma distinção marcante entre três tipos de realidade: **objetiva** (fatos físicos), **subjetiva** (experiências individuais) e **intersubjetiva** (construções coletivas, como mitos, leis e instituições). 
 
@@ -200,25 +197,6 @@ A originalidade da abordagem de Harari está em mostrar como a realidade intersu
     - **Exemplo 2**: Em 2010, Laszlo comprou duas pizzas por 10 mil Bitcoins (BTC, {{< fa brands btc >}}). Esta foi a primeira transação comercial conhecida envolvendo BTC. Quanto vale um BTC?
 :::
 
-```{ojs}
-viewof preco_btc = Inputs.text({ 
-  label: "Preço do Bitcoin",
-  value: "Carregando..."
-})
-
-async function obterPrecoBTC() {
-    const url = 'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=brl';
-
-    const response = await fetch(url);
-    const data = await response.json();
-    preco_btc.value = `R$ ${data.bitcoin.brl.toFixed(2)}`;
-}
-
-// Chama a função para obter o preço inicial e atualiza a cada 10 segundos
-obterPrecoBTC();
-setInterval(obterPrecoBTC, 10000);
-```
-
 ::: {#second-column style="display: flex; justify-content: center;"}
 Quanto vale uma pizza?
 ![](./images/Laszlo-Hanycez.png)
@@ -226,11 +204,30 @@ Quanto vale uma pizza?
 
 :::
 
-- Todos entendemos a existência dos EUA, da China, Rússia e Brasil como uma realidade objetiva, mas há casos, em que as pessoas divergem sobre a existência de certos Estados.
+```{ojs}
+viewof moeda = Inputs.radio(
+  ["brl", "usd", "eur"], 
+  {value: "brl", label: "Moeda:"}
+)
+
+priceData = {
+  const response = await fetch(`https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=${moeda}`);
+  const data = await response.json();
+  return data.bitcoin[moeda];
+}
+
+{
+  const price = await priceData;
+  const currencySymbol = moeda === "brl" ? "R$" : moeda === "usd" ? "$" : "€";
+  return `1 BTC = ${currencySymbol} ${price.toLocaleString()}`;
+}
+```
+
+Todos entendemos a existência dos EUA, da China, Rússia e Brasil como uma realidade objetiva, mas há casos, em que as pessoas divergem sobre a existência de certos Estados.
 
 - Dinheiro, Leis, Religião, Estado e Nação pertencem à realidade intersubjetiva; têm enorme poder dentro de uma rede informacional específica e não tem nenhum sentido fora dela.
 
-Em Nexus, Harari destaca o **livro** e o **prelo** (imprensa tipográfica) como os primeiros instrumentos das tecnologias da informação, atuando como veículos fundamentais para a construção e disseminação de redes intersubjetivas de conhecimento e crença. Essas inovações provocaram revoluções nas formas de circulação da informação no cotidiano das pessoas e organizações.
+Em Nexus, Harari destaca o **livro** e o **prelo** (prensa tipográfica, de Guttenberg) como os primeiros instrumentos das tecnologias da informação, atuando como veículos fundamentais para a construção e disseminação de redes intersubjetivas de conhecimento e crença. Essas inovações provocaram revoluções nas formas de circulação da informação no cotidiano das pessoas e organizações.
 
 ```{=html}
 <table style="width: 100%; border-collapse: collapse; height: 300px;">

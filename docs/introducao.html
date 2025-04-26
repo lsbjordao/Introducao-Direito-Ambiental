@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -114,6 +149,8 @@ gtag('config', 'G-HMN3YR5PSN', { 'anonymize_ip': true});
     document.body.classList.add('hypothesis-enabled');
   });
 </script>
+<script type="module" src="site_libs/quarto-ojs/quarto-ojs-runtime.js"></script>
+<link href="site_libs/quarto-ojs/quarto-ojs.css" rel="stylesheet">
 <script src="nav-arrows.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
@@ -587,9 +624,7 @@ gtag('config', 'G-HMN3YR5PSN', { 'anonymize_ip': true});
 </div>
 </div>
 <p>Para Popper, embora o Mundo 3 tenha origem na mente humana, ele possui uma existência autônoma e pode exercer influência causal sobre os outros mundos, sobretudo o Mundo 2. Essa divisão teve grande impacto na filosofia da ciência e da mente, ao oferecer uma maneira de pensar sobre a realidade que inclui tanto aspectos físicos quanto sociais e simbólicos.</p>
-</section>
 <hr>
-<div class="box" data-aos="fade-up">
 <p><strong>Yuval Noah Harari</strong> (1976–), em <strong>Sapiens: Uma Breve História da Humanidade</strong>, e mais recentemente, mas não apenas, em <strong>Nexus: Uma breve história das redes de informação, da Idade da Pedra à inteligência artificial</strong>, destaca uma distinção marcante entre três tipos de realidade: <strong>objetiva</strong> (fatos físicos), <strong>subjetiva</strong> (experiências individuais) e <strong>intersubjetiva</strong> (construções coletivas, como mitos, leis e instituições).</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -679,11 +714,50 @@ Origens do conceito de <strong>realidade interjubjetiva</strong>
 </div>
 </div>
 </div>
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="208" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 207;"><span id="cb1-208"><a href="#cb1-208" aria-hidden="true" tabindex="-1"></a>viewof moeda <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">radio</span>(</span>
+<span id="cb1-209"><a href="#cb1-209" aria-hidden="true" tabindex="-1"></a>  [<span class="st">"brl"</span><span class="op">,</span> <span class="st">"usd"</span><span class="op">,</span> <span class="st">"eur"</span>]<span class="op">,</span> </span>
+<span id="cb1-210"><a href="#cb1-210" aria-hidden="true" tabindex="-1"></a>  {<span class="dt">value</span><span class="op">:</span> <span class="st">"brl"</span><span class="op">,</span> <span class="dt">label</span><span class="op">:</span> <span class="st">"Moeda:"</span>}</span>
+<span id="cb1-211"><a href="#cb1-211" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-212"><a href="#cb1-212" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-213"><a href="#cb1-213" aria-hidden="true" tabindex="-1"></a>priceData <span class="op">=</span> {</span>
+<span id="cb1-214"><a href="#cb1-214" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> response <span class="op">=</span> <span class="cf">await</span> <span class="fu">fetch</span>(<span class="vs">`https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&amp;vs_currencies=</span><span class="sc">${</span>moeda<span class="sc">}</span><span class="vs">`</span>)<span class="op">;</span></span>
+<span id="cb1-215"><a href="#cb1-215" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> data <span class="op">=</span> <span class="cf">await</span> response<span class="op">.</span><span class="fu">json</span>()<span class="op">;</span></span>
+<span id="cb1-216"><a href="#cb1-216" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> data<span class="op">.</span><span class="at">bitcoin</span>[moeda]<span class="op">;</span></span>
+<span id="cb1-217"><a href="#cb1-217" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-218"><a href="#cb1-218" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-219"><a href="#cb1-219" aria-hidden="true" tabindex="-1"></a>{</span>
+<span id="cb1-220"><a href="#cb1-220" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> price <span class="op">=</span> <span class="cf">await</span> priceData<span class="op">;</span></span>
+<span id="cb1-221"><a href="#cb1-221" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> currencySymbol <span class="op">=</span> moeda <span class="op">===</span> <span class="st">"brl"</span> <span class="op">?</span> <span class="st">"R$"</span> <span class="op">:</span> moeda <span class="op">===</span> <span class="st">"usd"</span> <span class="op">?</span> <span class="st">"$"</span> <span class="op">:</span> <span class="st">"€"</span><span class="op">;</span></span>
+<span id="cb1-222"><a href="#cb1-222" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> <span class="vs">`1 BTC = </span><span class="sc">${</span>currencySymbol<span class="sc">}</span><span class="vs"> </span><span class="sc">${</span>price<span class="op">.</span><span class="fu">toLocaleString</span>()<span class="sc">}</span><span class="vs">`</span><span class="op">;</span></span>
+<span id="cb1-223"><a href="#cb1-223" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-1" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-2" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-3" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+<p>Todos entendemos a existência dos EUA, da China, Rússia e Brasil como uma realidade objetiva, mas há casos, em que as pessoas divergem sobre a existência de certos Estados.</p>
 <ul>
-<li><p>Todos entendemos a existência dos EUA, da China, Rússia e Brasil como uma realidade objetiva, mas há casos, em que as pessoas divergem sobre a existência de certos Estados.</p></li>
-<li><p>Dinheiro, Leis, Religião, Estado e Nação pertencem à realidade intersubjetiva; têm enorme poder dentro de uma rede informacional específica e não tem nenhum sentido fora dela.</p></li>
+<li>Dinheiro, Leis, Religião, Estado e Nação pertencem à realidade intersubjetiva; têm enorme poder dentro de uma rede informacional específica e não tem nenhum sentido fora dela.</li>
 </ul>
-<p>Em Nexus, Harari destaca o <strong>livro</strong> e o <strong>prelo</strong> (imprensa tipográfica) como os primeiros instrumentos das tecnologias da informação, atuando como veículos fundamentais para a construção e disseminação de redes intersubjetivas de conhecimento e crença. Essas inovações provocaram revoluções nas formas de circulação da informação no cotidiano das pessoas e organizações.</p>
+<p>Em Nexus, Harari destaca o <strong>livro</strong> e o <strong>prelo</strong> (prensa tipográfica, de Guttenberg) como os primeiros instrumentos das tecnologias da informação, atuando como veículos fundamentais para a construção e disseminação de redes intersubjetivas de conhecimento e crença. Essas inovações provocaram revoluções nas formas de circulação da informação no cotidiano das pessoas e organizações.</p>
 <table class="caption-top table" data-quarto-postprocess="true">
 <colgroup>
 <col style="width: 50%">
@@ -702,7 +776,7 @@ Origens do conceito de <strong>realidade interjubjetiva</strong>
 </tr>
 </tbody>
 </table>
-</div>
+</section>
 <section id="o-poder-das-estórias" class="level3 box" data-aos="fade-up">
 <h3 class="anchored" data-anchor-id="o-poder-das-estórias">O poder das estórias</h3>
 <p>Kendall Haven (1976-) <img src="https://flagcdn.com/w40/us.png" class="img-fluid"></p>
@@ -1141,6 +1215,17 @@ Waldman, Ricardo Libel, Marcelo Giovanni Vargas Munhoz, e Vanessa Bueno Sampaio.
 </div>
 
 </main> <!-- /main -->
+<script type="ojs-module-contents">
+eyJjb250ZW50cyI6W3sibWV0aG9kTmFtZSI6ImludGVycHJldCIsImNlbGxOYW1lIjoib2pzLWNlbGwtMSIsImlubGluZSI6ZmFsc2UsInNvdXJjZSI6InZpZXdvZiBtb2VkYSA9IElucHV0cy5yYWRpbyhcbiAgW1wiYnJsXCIsIFwidXNkXCIsIFwiZXVyXCJdLCBcbiAge3ZhbHVlOiBcImJybFwiLCBsYWJlbDogXCJNb2VkYTpcIn1cbilcblxucHJpY2VEYXRhID0ge1xuICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKGBodHRwczovL2FwaS5jb2luZ2Vja28uY29tL2FwaS92My9zaW1wbGUvcHJpY2U/aWRzPWJpdGNvaW4mdnNfY3VycmVuY2llcz0ke21vZWRhfWApO1xuICBjb25zdCBkYXRhID0gYXdhaXQgcmVzcG9uc2UuanNvbigpO1xuICByZXR1cm4gZGF0YS5iaXRjb2luW21vZWRhXTtcbn1cblxue1xuICBjb25zdCBwcmljZSA9IGF3YWl0IHByaWNlRGF0YTtcbiAgY29uc3QgY3VycmVuY3lTeW1ib2wgPSBtb2VkYSA9PT0gXCJicmxcIiA/IFwiUiRcIiA6IG1vZWRhID09PSBcInVzZFwiID8gXCIkXCIgOiBcIuKCrFwiO1xuICByZXR1cm4gYDEgQlRDID0gJHtjdXJyZW5jeVN5bWJvbH0gJHtwcmljZS50b0xvY2FsZVN0cmluZygpfWA7XG59XG4ifSx7Im1ldGhvZE5hbWUiOiJpbnRlcnByZXRRdWlldCIsInNvdXJjZSI6InNoaW55SW5wdXQoJ21vZWRhJykifV19
+</script>
+<script type="module">
+if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
+window._ojs.paths.runtimeToDoc = "../..";
+window._ojs.paths.runtimeToRoot = "../..";
+window._ojs.paths.docToRoot = "";
+window._ojs.selfContained = false;
+window._ojs.runtime.interpretFromScriptTags();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
