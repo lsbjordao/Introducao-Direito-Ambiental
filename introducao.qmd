@@ -138,7 +138,7 @@ Para Popper, embora o Mundo 3 tenha origem na mente humana, ele possui uma exist
 
 ## Origens do conceito de **realidade interjubjetiva**
 
-A ideia de realidade intersubjetiva não é um pioneirismo de Harari — embora ele a popularize de forma muito acessível e impactante em Sapiens. O conceito tem raízes profundas na filosofia, sociologia e fenomenologia, bem anteriores a Harari.
+A ideia de realidade intersubjetiva não é um pioneirismo de Harari — embora ele a popularize de forma muito acessível e impactante em Sapiens e refine ainda mais em Nexus. O conceito tem raízes profundas na filosofia, sociologia e fenomenologia, bem anteriores a Harari.
 
 **Edmund Husserl** (1859–1938), fundador da fenomenologia, já tratava da intersubjetividade como condição para a constituição do mundo social: *porque **reconhecemos os outros como sujeitos**, e porque vivemos em um **horizonte compartilhado de sentido***.
 
@@ -181,7 +181,7 @@ A originalidade da abordagem de Harari está em mostrar como a realidade intersu
     - Existe apenas na mente individual;
     - Só a pessoa que sente ou acredita acessa diretamente;
     - **Exemplo 1**: dor, prazer, emoções, crenças pessoais;
-    - **Exemplo 2**: Quem prepara a pizza mais gostosa?
+    - **Exemplo 2**: Quem prepara a pizza mais saborosa?
 :::
 
 ::: {#second-column style="display: flex; justify-content: center;"}
@@ -197,8 +197,27 @@ A originalidade da abordagem de Harari está em mostrar como a realidade intersu
 - **Realidade intersubjetiva**
     - Existe entre mentes, sustentada coletivamente por um grupo de pessoas, ou em outras palavras, em redes de informações;
     - **Exemplo 1**: Dinheiro, Leis, Religião
-    - **Exemplo 2**: Em 2010, Laszlo comprou duas pizzas por 10 mil Bitcoins (BTC). Esta foi a primeira transação comercial conhecida envolvendo BTC. Quanto vale um BTC?
+    - **Exemplo 2**: Em 2010, Laszlo comprou duas pizzas por 10 mil Bitcoins (BTC, {{< fa brands btc >}}). Esta foi a primeira transação comercial conhecida envolvendo BTC. Quanto vale um BTC?
 :::
+
+```{ojs}
+viewof preco_btc = Inputs.text({ 
+  label: "Preço do Bitcoin",
+  value: "Carregando..."
+})
+
+async function obterPrecoBTC() {
+    const url = 'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=brl';
+
+    const response = await fetch(url);
+    const data = await response.json();
+    preco_btc.value = `R$ ${data.bitcoin.brl.toFixed(2)}`;
+}
+
+// Chama a função para obter o preço inicial e atualiza a cada 10 segundos
+obterPrecoBTC();
+setInterval(obterPrecoBTC, 10000);
+```
 
 ::: {#second-column style="display: flex; justify-content: center;"}
 Quanto vale uma pizza?
