@@ -23,7 +23,7 @@ O SISNAMA é composto pelo:
 
 ## Conceitos importantes
 
-A PNMA é inovadora ao definir **meio ambiente**, **degradação ambiental** e **poluição**
+A PNMA é inovadora ao definir **meio ambiente**, **recursos ambientais**, **degradação ambiental**, **poluição** e **poluidor**.
 
 ### Meio ambiente
 
@@ -32,6 +32,16 @@ A PNMA é inovadora ao definir **meio ambiente**, **degradação ambiental** e *
 ## PNMA, art. 3º, I
 
 **meio ambiente**, o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas.
+
+:::
+
+### Recursos ambientais
+
+::: {.callout-note icon=false}
+
+## PNMA, art. 3º, V
+
+**recursos ambientais**: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora. 
 
 :::
 
@@ -70,15 +80,5 @@ A PNMA é inovadora ao definir **meio ambiente**, **degradação ambiental** e *
 ## PNMA, art. 3º, IV
 
 **poluidor**, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental;
-
-:::
-
-### Recursos ambientais
-
-::: {.callout-note icon=false}
-
-## PNMA, art. 3º, V
-
-**recursos ambientais**: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora. 
 
 :::
