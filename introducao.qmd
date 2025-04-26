@@ -49,9 +49,10 @@ A **realidade** é um conceito amplo e multifacetado, que pode ser abordado de d
    - **Autores fundamentais:**
       - **Humberto Maturana** (1928–2021) e **Francisco Varela** (1946–2001)
          - *Máquinas y Seres Vivos: Una teoría sobre la organización biológica* (1973).
+         - Não deixe de ler *A Árvore do Conhecimento* (lançado em espanhol em 1984).
          - Propuseram a noção de **autopoiese**, sugerindo que todo sistema vivo é também um sistema cognitivo — não há cognição sem vida, nem vida sem cognição.  
          - Defendiam que todo conhecimento é construído a partir do ponto de vista do observador:  
-            > “Tudo o que é dito, é dito por um observador.”
+            > "Tudo o que é dito, é dito por um observador."
       - Francisco Varela, com Evan Thompson e **Eleanor Rosch** 
          - *The Embodied Mind: Cognitive Science and Human Experience* (1991)  
          - Introdução formal do termo cognição enativa.  
