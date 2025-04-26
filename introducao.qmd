@@ -194,7 +194,7 @@ A originalidade da abordagem de Harari está em mostrar como a realidade intersu
 - **Realidade intersubjetiva**
     - Existe entre mentes, sustentada coletivamente por um grupo de pessoas, ou em outras palavras, em redes de informações;
     - **Exemplo 1**: Dinheiro, Leis, Religião
-    - **Exemplo 2**: Em 2010, Laszlo comprou duas pizzas por 10 mil Bitcoins (BTC, {{< fa brands btc >}}). Esta foi a primeira transação comercial conhecida envolvendo BTC. Quanto vale um BTC?
+    - **Exemplo 2**: Em 2010, Laszlo comprou duas pizzas por 10 mil Bitcoins ({{< fa brands btc >}}TC). Esta foi a primeira transação comercial conhecida envolvendo BTC. Quanto vale um BTC?
 :::
 
 ::: {#second-column style="display: flex; justify-content: center;"}
